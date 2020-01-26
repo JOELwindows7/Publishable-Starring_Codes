@@ -1,0 +1,70 @@
+/* body{
+    display: flex;
+} */
+.dropdown, .dropdown li ul{
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.dropdown a{
+    /* if you use >, then it refers in a level only */
+    /* but with space, it queries anything within this class at any level*/
+    padding: 10px 20px;
+    display: block;
+    text-decoration: none;
+    color: darkblue;
+}
+
+.dropdown ul{
+    display: none !important;
+    /* !important is quite dirty to use */
+    /* but quite helps */
+    flex-direction: column;
+}
+
+.dropdown li:hover ul{
+    display: block !important;
+}
+
+.dropdown li ul{
+    position: absolute;
+    /* background-color: beige; */
+}
+
+.dropdown ul a{
+    padding: 10px 30px;
+}
+
+/* min-width, mobile then desktop*/
+/* max-width, desktop then mobile*/
+/* did you know now there is new responsive for Galaxy FOld?! */
+
+/* media query */
+/* @media screen | print | all */
+@media screen and (max-width: 480px){
+    body{
+        background-color:aquamarine !important;
+    }
+
+    .dropdown{
+        flex-direction: column;
+    }
+
+    .dropdown li ul{
+        position: relative;
+    }
+}
+
+.image{
+    background-image: url("panda.jpg");
+    /* from in a level of this CSS file */
+    background-size: 100% 100%;
+    height: 100px;
+    width: 100px;
+}
+
+.image:hover{
+    background-image: url("koala.jpg");
+    transition: .5s;
+}

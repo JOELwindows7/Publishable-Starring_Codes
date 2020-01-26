@@ -1,0 +1,8 @@
+Step Eigen Faces
+================
+1. Load image, buat dalam dimensi [total_images, total_pixel]
+2. Hitung mean dari setiap pixel yang ada pada gambar
+3. Subtract setiap pixel dengan mean yang sudah didapat pada step sebelumnya
+4. Hitung covariance matrix (formula: A * A_transpose)
+5. Hitung eigen vector dari convariance matrix
+6. Hitung eigen faces (formula: A * eigen_vector) 

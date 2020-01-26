@@ -1,0 +1,11 @@
+String data
+
+String[] temp = data.split("\n");
+
+for(int x = 0; x < temp.length; x++){
+	String[] temp2 = temp[x].split("#");
+
+	String custName = temp2[0];
+	String foodName = temp2[1];
+	int qty = Integer.parseInt(temp2[2]);
+}

@@ -1,0 +1,17 @@
+<style>
+.The-Nav-Button{
+    text-decoration:none;
+    border:1px solid black;
+    list-style: none;
+    border-radius: 10%; /*rounded box border*/
+    margin-left: 10px;
+    background-color: darkgray;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+}
+.The-Nav-Button:hover{
+background-color:green;
+transition: 0.5;
+}
+</style>

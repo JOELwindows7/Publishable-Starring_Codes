@@ -1,0 +1,19 @@
+detail
+
+nama nim
+
+500 MB max total before zip
+
+template
+movie
+main.max
+model.max
+texture
+
+put in respective folder
+
+asdfjk;
+
+asdfasdf
+
+abstract and top above maybe optional?

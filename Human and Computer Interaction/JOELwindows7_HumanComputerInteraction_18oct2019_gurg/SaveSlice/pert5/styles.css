@@ -1,0 +1,60 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: grey;
+}
+
+header {
+    width: 100%;
+    background-color: rgb(104, 157, 255);
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 20px;
+    /* flex-direction: column; */
+    /* do not nyontek, no telat, on quizoo */
+}
+
+header>img {
+    width: 150px;
+    height: 150px;
+    margin-right: auto;
+}
+
+.header-right-box {
+    border: 1px solid black;
+    list-style: none;
+    border-radius: 10%;
+    /*rounded box border*/
+    margin-left: 10px;
+    background-color: darkgray;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.header-right-box:hover {
+    /* if we hover this then do to the class of*/
+    background-color: red;
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+.header-right-box>a>img {
+    width: 90px;
+    height: 90px;
+}
+
+.header-right-box>a {
+    text-decoration: none;
+    color: black;
+    font-size: 35px;
+}
+
+.header-right {
+    display: flex;
+}
