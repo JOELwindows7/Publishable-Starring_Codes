@@ -1,0 +1,19 @@
+I have learnt how to open the COVER:
+- Select "Echo Rig" in collection of "Collection". use top right object selector list (Outliner) to find select it.
+- Yes, Open that archive box "Collection", and click stickman "Echo Rig"
+- Look Property window bottom right that has vertical tab. Click orange box with 4 corner brackets around it (Object Properties).
+- Scroll down to Custom Properties. open that up. there are 4 custom properties
+- try to slide the number of each properties, and see what you get. enjoy!
+
+I also have found another object parts with custom properties:
+- Lewd Body.Groin = Anal, Vag clit
+- Lewd Body.Tits = Size of plumpee and nipley
+
+What is that Purple thingy?! Why can't I change the properties in purple?
+Those are drivers. drivers controls the properties by certain properties. search Blender Driver to learn about that.
+In this case, the object parts are controlled by a custom properties from the parent of the character. One will follow this and otherwise counters the properties.
+Since they have been controlled by properties, you cannot directly edit those properties in purple. Only able through those mentioned properties.
+
+also I've tried my best to convey this for beginner.
+
+https://smutba.se/project/29655
