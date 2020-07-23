@@ -14,7 +14,7 @@
    id="svg8"
    inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
    sodipodi:docname="ZoomForgotRename.svg"
-   inkscape:export-filename="C:\Users\joelr\Documents\starring codes\Publishable-Starring_Codes\EntreTrack\PrePersonal\Inkscape\ZoomForgotRename.png"
+   inkscape:export-filename="C:\Users\joelr\Documents\starring codes\Publishable-Starring_Codes\EntreTrack\PrePersonal\Inkscape\ZoomForgotRenameNew.png"
    inkscape:export-xdpi="96.000008"
    inkscape:export-ydpi="96.000008">
   <defs
@@ -27,10 +27,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="841.09233"
-     inkscape:cy="1087.7703"
+     inkscape:cx="858.88888"
+     inkscape:cy="817.7266"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer4"
      inkscape:document-rotation="0"
      showgrid="true"
      units="px"
@@ -79,7 +79,7 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Lapis 1"
+     inkscape:label="Main"
      inkscape:groupmode="layer"
      id="layer1">
     <rect
@@ -90,32 +90,6 @@
        x="0"
        y="0"
        ry="0" />
-    <text
-       xml:space="preserve"
-       style="font-weight:bold;font-size:48.3363px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:'ubuntu Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;stroke-width:1.5105"
-       x="272.28299"
-       y="143.78615"
-       id="text1500"><tspan
-         sodipodi:role="line"
-         id="tspan1498"
-         x="272.28299"
-         y="143.78615"
-         style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:1.5105">Joel Robert Justiawan</tspan><tspan
-         sodipodi:role="line"
-         x="272.28299"
-         y="204.20653"
-         style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:1.5105"
-         id="tspan1502">2101629672</tspan><tspan
-         sodipodi:role="line"
-         x="272.28299"
-         y="264.62692"
-         style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:1.5105"
-         id="tspan1504">Zoom forgot </tspan><tspan
-         sodipodi:role="line"
-         x="272.28299"
-         y="325.0473"
-         style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:1.5105"
-         id="tspan1506">rename permission</tspan></text>
     <g
        inkscape:export-ydpi="300"
        inkscape:export-xdpi="300"
@@ -155,14 +129,110 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-weight:bold;font-size:58.7163px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:'ubuntu Bold';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;stroke-width:1.83488"
-       x="391.94717"
+       style="font-weight:bold;font-size:58.7163px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:'ubuntu Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#45ff00;fill-opacity:1;stroke-width:1.83488"
+       x="270.30258"
        y="460.67059"
        id="text1530"><tspan
          sodipodi:role="line"
          id="tspan1528"
-         x="391.94717"
+         x="270.30258"
          y="460.67059"
-         style="fill:#ffffff;stroke-width:1.83488">Ourwear</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Pasajero;-inkscape-font-specification:'Pasajero Bold';text-align:center;text-anchor:middle;fill:#45ff00;fill-opacity:1;stroke-width:1.83488">OURWEAR</tspan></text>
+    <text
+       id="text904"
+       y="143.78615"
+       x="272.28299"
+       style="font-weight:bold;font-size:48.3363px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:'ubuntu Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;stroke-width:1.5105"
+       xml:space="preserve"><tspan
+         style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:1.5105"
+         y="143.78615"
+         x="272.28299"
+         id="tspan894"
+         sodipodi:role="line">Joel Robert Justiawan</tspan><tspan
+         id="tspan896"
+         style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:1.5105"
+         y="204.20653"
+         x="272.28299"
+         sodipodi:role="line">2101629672</tspan><tspan
+         id="tspan900"
+         style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:1.5105"
+         y="264.62689"
+         x="272.28299"
+         sodipodi:role="line" /><tspan
+         id="tspan902"
+         style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:1.5105"
+         y="325.04727"
+         x="272.28299"
+         sodipodi:role="line" /></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Statur">
+    <g
+       inkscape:groupmode="layer"
+       id="layer4"
+       inkscape:label="Gong-Flix">
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:74.0301px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:2.31343"
+         x="269.47177"
+         y="270.71124"
+         id="text920"><tspan
+           sodipodi:role="line"
+           id="tspan918"
+           x="269.47177"
+           y="270.71124"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Azonix;-inkscape-font-specification:'Azonix Bold';fill:#00ff00;stroke-width:2.31343">GONG-flix</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:17.7297px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.554054"
+         x="270.57901"
+         y="302.56088"
+         id="text924"><tspan
+           sodipodi:role="line"
+           id="tspan922"
+           x="270.57901"
+           y="302.56088"
+           style="fill:#ffff00;stroke-width:0.554054">NON SPESIFIX APPLICATIONS LIMIT SCHEDULIZATIONS</tspan><tspan
+           id="tspan875"
+           sodipodi:role="line"
+           x="270.57901"
+           y="324.72302"
+           style="fill:#ffff00;stroke-width:0.554054">CLIENT FAULT + SERVER FAULT = ADMIN FEE</tspan><tspan
+           id="tspan877"
+           sodipodi:role="line"
+           x="270.57901"
+           y="346.88513"
+           style="fill:#ffff00;stroke-width:0.554054">SHORTCUT ENTER</tspan></text>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer3"
+       inkscape:label="ForgotRename"
+       sodipodi:insensitive="true"
+       style="display:none">
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:48.3363px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:'ubuntu Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;stroke-width:1.5105"
+         x="272.28299"
+         y="269.30408"
+         id="text1500"><tspan
+           sodipodi:role="line"
+           x="272.28299"
+           y="269.30408"
+           style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:1.5105"
+           id="tspan890">Zoom forgot </tspan><tspan
+           sodipodi:role="line"
+           x="272.28299"
+           y="329.72446"
+           style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:1.5105"
+           id="tspan892">rename permission</tspan><tspan
+           sodipodi:role="line"
+           x="272.28299"
+           y="390.14484"
+           style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:1.5105"
+           id="tspan1506" /></text>
+    </g>
   </g>
 </svg>
