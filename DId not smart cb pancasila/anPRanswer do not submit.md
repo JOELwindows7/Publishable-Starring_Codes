@@ -155,6 +155,32 @@ CATATAN:
 6. Setiap anggota kelompok memastikan bahwa ada ketua kelompok.
 7. Materi utama dari buku wajib, pengayaan dari sumber lain
 
+## 6
+
+SESI 7: TOPIK 6 TOLERANSI DAN KERJASAMA ANTAR UMAT BERAGAMA
+1. Jelaskan apa yang dimaksud dengan Toleransi ( perhatikan ada beberapa tingkat toleransi)
+2. Upaya membangun Toleransi dan Kerjasama Antar Umat Beragama
+1.1 Perbaikan moral/perbaikan akhlak
+1.2 Penegakan keadilan
+1.3 Perbaikan taraf hidup
+1.4 Membela kaum lemah
+(CATATAN : BACA DULU DARI BUKU WAJIB : APA YANG DIMAKSUD NO.1.1 SD 1.4)
+Tugas:
+1) Pilih salah satu dari upaya tersebut.
+2) Cari berita di internet upaya membangun toleransi sesuai dengan upaya yang Anda pilih.
+3) Buat ringkasan berita dan cantumkan alamat web
+4) Beri alasan mengapa Anda menyimpulkan bahwa berita tsb. merupakan upaya sesuai 1).
+
+PERHATIAN
+1. Setiap mahasiswa memberikan jawaban atas pertanyaan tersebut
+2. Jawaban harus orisinil, jawaban yang sama atau mirip dinilai 0
+3. Jawaban dengan Reply , tulis di kolom deskripsi, tidak berupa file
+4. Posting Jawaban pertama paling lambat kamis 31 Juli 2020, posting jawaban kedua setelah ada tanggapan jawaban pertama Anda.
+5. Tanggapan jawaban akan diposting pada tanggal 1Agustus 2020,
+6. Agar Anda dapat posting kedua, maka posting sesuai no.4, karena di luar itu tidak diberikan tanggapan.
+7. KOLOM TITLE tulis JUDUL TUGAS DAN NO.URUT ABSEN____
+
+
 # Answer (only for backup! copy paste to reply only!)
 
 ## 1
@@ -279,4 +305,39 @@ No.	|Nama							|Urut absen|
 3	|	JOEL ROBERT JUSTIAWAN		|3|
 4	|	FARIS NASHIRUDDIN PRADIATMA	|4|
 5	|	VERICA CORNELIA				|5|
+
+## 6
+
+pek late
+
+Toleransi Tugas 1 Absen 3 
+
+SESI 7: TOPIK 6 TOLERANSI LF21 Absen 3
+
+1. Toleransi adalah dengan sabar membiarkan orang lain melakukan sesutu yang berbeda dengan kita. 
+- Kaitannya kehidupan beragama berarti sikap sabar membiarkan orang lain memeluk agama & beribadah menurut agama dan kepercayaan itu.   
+- dalam kaitannya dengan masyarakat majemuk, toleransi merupakan sikap lapang dada terhadap orang lain tanpa harus mengorbankan prinsip diri sendiri. 
+- Dalam kehidupan demokrasi Indonesia, toleransi adalah sikap sabar membiarkan orang lain berbeda pendapat, berbeda kedudukan, berbeda tujuan, berbeda agama, berbeda suku, dab sebagainya.   
+2. Pilih Upaya: 1.2 Penegakan Keadilan (CB Pancasila Hal 89)  
+Upaya membangun toleransi dan kerjasama Antar Umat beragama dalam penegakan keadilan
+
+Cari berita di Internet
+https://www.youtube.com/watch?v=RnJnNru9I78
+
+Ringkasan: Dalam video ini, Nas menunjukan sebuah negara dimana Toleransi secara nasional terjadi. Adalah Arab Emirat.  
+Di negara Muslim ini, seluruh agama yang berada di dunia dapat hidup berdamai. Selain Masjid untuk muslim beribadah, ada juga Gereja untuk Kristen & Katolik, Tempat ibadah untuk Yahudi, Sikh, dan sebagainya.  
+Mari kita lihat salah satu contoh tempat sehari2 seperti supermarket. Disana, sangat sulit mencari bahan yang berdasarkan babi, namun untuk mengaplikasikan toleransi, disediakan tempat khusus barang tabu tersebut, babi.  
+Selain itu juga ada Bar dan mereka dapat dengan damainya menjual alkohol. Sebagai konteks, menurut video, muslim tidak dapat minum alkohol (alkohol juga barang tabu!).  
+Saat waktunya sholat (sore), Adzan berkumandang, seluruh kegiatan harus berhenti demi menghormati para Muslim yang akan beribadah.
+
+Bagaimana mereka bertoleransi:
+- Membiarkan agama lain melakukan apa yang mereka dapat lakukan
+- menyediakan fasilitas khusus
+- menghormati kegiatan beragama, seperti saat setiap sore Adzan berkumandang
+- Membiarkan pemeluk masing2 agama memiliki tempat ibadah masing-masing.
+
+Mengapa Sesuai dengan upaya 1.2 Penegakan Keadilan:  
+Keadilan terhadap seluruh pemeluk agama yang tinggal di negara tersebut sangat terlihat dengan jelas. Kita dapat melihat walapun terdapat keterbatasan (seperti barang2 tabu) dengan agama dimana negara ini dominan, namun mereka rela membiarkan pemeluk agama yang lain melakukannya selama tidak menggangu siapapun. Seluruh pemeluk dapat dengan damai dan dianggap sebagai manusiawi apapun itu selama tidak menggangu siapapun. Serta sebagai balasannya, seluruh pemeluk agama apapun dapat menghormati siapapun juga, seperti pada saat adzan berkumandang, dan sebagainya.  
+Ya. Tidak ada siapapun (yang dapat melakukan hal tabu bagi agama yang disebutkan, Islam) yang dilarang, selama tidak menggangu siapapun, dalam hal kedamaian, keadilan, dan sebagainya.
+
 
