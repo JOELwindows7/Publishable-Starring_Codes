@@ -489,5 +489,8 @@ SESI 10: TOPIK 9 MULTIKUTURISME KELAS LF21 Absen 3
 
 WARNING! Tanggapan harap direspon. Jebakan ditemukan  
 
-Soalnya tetap sama seperti edisi terdahulu (2014=2019)
+Soalnya tetap sama seperti edisi terdahulu (2014=2019)  
+Soal: Coba buktikan fakta-fakta kuat yang menunjukan bahwa Indonesia ini adalah Negara yang plural dan beranekaragaman! Bagaimana sebaiknya kita menghayati  keberadaan (eksistensi) kita dalam kondisi keberagaman ini? Jelaskan dan contohkan!
+Jawaban: Indonesia mengandung banyak sekali ras dan suku setiap daerah  
+
 
