@@ -475,19 +475,19 @@ Dasarnya, ada demo di depan kantor Bawaslu setelah pengumuman Pilpres tahun kema
 2. Analisa Kasus:  
 Dalam kasus kerusuhan 21-22 Mei 2020 di Jakarta seperti berita diatas, ada beberapa pelanggaran HAM sesuai Undang-Undang No. 39 Tahun 1999 tentang HAM adalah sebagai berikut:    
 - Pelanggaran tentang penyiksaan 4 orang demonstran yang diduga dilakukan oleh aparat. Hal ini tidak sesuai dengan Pasal 4. Dimana disebutkan bahwa semua orang punya hak untuk tidak disiksa.
-- Pasal 25. Hak untuk menyampaikan pendapat di muka umum. Ya, demo itu boleh, asal tidak merugikan warga.
-- Pasal 30. Hak atas rasa aman dan tentram. Ya, tidak boleh siapapun mengancam atas suatu hal yang akan dilakukan mereka.
-- Pasal 33. Hak untuk bebas dari penyiksaan & perlakuan keja, & Hak untuk bebas dari penghilangan paksa & penghilangan nyawa. Ya. ini. beberapa aparat telah menyebabkan hilangnya lebih dari satu nyawa.
-- Pasal 34. Hak untuk tidak ditangkap, ditahan, dikucilkan, diasingkan, atau dibuang secara sewenang-wenang.
-- Pasal 71. Pemerintah wajib bertanggung jawab, menghormati, melindungi, menegakan dan memajukan HAM dalam undang-undang. Dasarnya, pemerintah & aparatnya wajib mengaplikasikan HAM terhadap warga-warganya. Ya. ini. beberapa aparat telah menyebabkan hilangnya lebih dari satu nyawa.
-Korban tidak mendapatkan haknya sesuai dengan pasal diatas.
+- Pelanggaran tentang penangkapan para demonstran adalah melanggar Pasal 25. Dimana setiap orang punya hak untuk menyampaikan pendapat di muka umum. Ya, demo itu boleh, asal tidak merugikan warga.
+- Pelanggara tentang penangkapan para demonstran dan mengintimidasinya sehingga membuat masyarakat takut, hal ini tidak sesuai dengan Pasal 30. Dimana setiap orang berhak atas rasa aman dan tentram. Tidak boleh siapapun mengancam atas suatu hal yang akan dilakukan mereka.
+- Pelanggaran tentang penyiksaan para demonstran melanggar Pasal 33. Dimana setiap orang memiliki Hak untuk bebas dari penyiksaan & perlakuan keja, & Hak untuk bebas dari penghilangan paksa & penghilangan nyawa. Ya. ini. beberapa aparat telah menyebabkan hilangnya lebih dari satu nyawa.
+- Pelanggaran tentang penangkapan & penahanan tanpa bukti-bukti yang jelas melanggar Pasal 34. Dimana setiap orang punya hak untuk tidak ditangkap, ditahan, dikucilkan, diasingkan, atau dibuang secara sewenang-wenang.
+- Pelanggaran tentang aparat negara yang seharusnya menjadi pelindung masyarakat & penegak hukum di Indonesia tetapi diduga melakukan penyiksaan dan membuat rasa tidak aman masyarakat. Hal ini melanggar Pasal 71. Dimana pemerintah wajib bertanggung jawab, menghormati, melindungi, menegakan dan memajukan HAM dalam undang-undang. Dasarnya, pemerintah & aparatnya wajib mengaplikasikan HAM terhadap warga-warganya. Ya. ini. beberapa aparat telah menyebabkan hilangnya lebih dari satu nyawa.
 
-3. Melanggar sila 
-- Sila 2 (Kemanusiaan yang adil dan beradab). Karena telah menyebabkan hilangnya nyawa siapapun, artinya tidak beradab dan tidak adil.
+3. Pelanggaran dalam nilai-nilai Pancasila adalah dalam Sila ke-2 Kemanusiaan yang adil dan beradab, Dimana didalam sila ini mempunyai makna hidup yang berkeadaban & berkeadilan. Artinya hidup yang menghargai & menghormati martabat kemanusiaan sesama dan kemanusiaan diri sendiri secara seimbang sesuai nilai-nilai budaya bangsa & nilai-nilai keadilan sosial bagi sesama. Keadilan disini berarti tidak boleh berlaku sewenang-wenang terhadap sesama yang lain. Dalam kasus kerusuhan tersebut terjadi sikap kesewenang-wenangan dan telah menyebabkan hilangnya nyawa para demonstran.
 
 ## 9
 
 SESI 10: TOPIK 9 MULTIKUTURISME KELAS LF21 Absen 3
 
-WARNING! Tanggapan harap direspon. Jebakan ditemukan
+WARNING! Tanggapan harap direspon. Jebakan ditemukan  
+
+Soalnya tetap sama seperti edisi terdahulu (2014=2019)
 
