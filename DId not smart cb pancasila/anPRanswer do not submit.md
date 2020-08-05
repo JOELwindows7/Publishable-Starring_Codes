@@ -180,6 +180,69 @@ PERHATIAN
 6. Agar Anda dapat posting kedua, maka posting sesuai no.4, karena di luar itu tidak diberikan tanggapan.
 7. KOLOM TITLE tulis JUDUL TUGAS DAN NO.URUT ABSEN____
 
+## 7
+
+SESI 8: TOPIK 7 KEMANUSIAN YANG BERKEADILAN DAN KEBERADABAN
+BACCAA...BAACCCA BUKU WAJIB
+SOAL
+Ada 6 soal lihat di FILE , setiap jawaban soal diawali pernyataan dari jawaban soal tersebut.
+Contoh:
+1. PENDAHULUAN
+1) Basis relasi bukan didasarkan primordial sekretarian.
+.......................................................
+Dan beri jarak untuk jawaban berikutnya
+2) .............................
+
+
+PERHATIAN
+1. Setiap mahasiswa memberikan jawaban atas pertanyaan tersebut
+2. Jawaban harus orisinil, jawaban yang sama atau mirip dinilai 0
+3. Jawaban dengan Reply , tulis di kolom deskripsi, tidak berupa file
+4. Posting Jawaban pertama paling lambat kamis 31 Juli 2020, posting jawaban kedua setelah ada tanggapan jawaban pertama Anda.
+5. Tanggapan jawaban akan diposting pada tanggal 1Agustus 2020,
+6. Agar Anda dapat posting kedua, maka posting sesuai no.4, karena di luar itu tidak diberikan tanggapan.
+7. KOLOM TITLE tulis JUDUL TUGAS DAN NO.URUT ABSEN____
+
+## 8
+
+SESI 9: TOPIK 8 HAM
+BACA DULU MATERI DARI BUKU WAJIB
+BACA ...BACA....BACA....BACA
+1. Berdasarkan 4 issue utama/aktual HAM di Indonesia, temukan salah satu kasus pelanggaran HAM tsb. dari internet, buat ringkasan kasusnya. Sebutkan sumbernya.
+2. Analisa kasus tersebut dengan Undang – Undang Nomor 39 Tahun 1999 tentang Hak Asasi Manusia. pelanggaran pasal yang mana. (Korban tidak mendapatkan haknya sesuai pasal ...........tulis pasal tsb.)
+3. Analisa juga pelanggaran nilai nilai pancasila kasus tersebut.
+
+
+
+PERHATIAN
+1. Setiap mahasiswa memberikan jawaban atas pertanyaan tersebut
+2. Jawaban harus orisinil, jawaban yang sama atau mirip dinilai 0
+3. Jawaban dengan Reply , tulis di kolom deskripsi, tidak berupa file
+4. Posting Jawaban pertama paling lambat JUMAT 7 Agustus 2020, posting jawaban kedua setelah ada tanggapan jawaban pertama Anda.
+5. Tanggapan jawaban akan diposting pada tanggal 8 Agustus 2020,
+6. Agar Anda dapat posting kedua, maka posting sesuai no.4, karena di luar itu tidak diberikan tanggapan.
+7. KOLOM TITLE tulis JUDUL TUGAS DAN NO.URUT ABSEN____
+
+## 9
+
+SESI 10: TOPIK 9 MULTIKUTURISME
+
+BACA DULU MATERI DARI BUKU WAJIB
+BACA ...BACA....BACA....BACA
+
+1. Kerjakan tugas E , Dari buku CB Pancasila halaman 111
+2. Jelaskan faktor-faktor pendorong dan penghambat dari multikultur di Indonesia dalam mencapai Persatuan Indonesia.
+
+
+PERHATIAN
+1. Setiap mahasiswa memberikan jawaban atas pertanyaan tersebut
+2. Jawaban harus orisinil, jawaban yang sama atau mirip dinilai 0
+3. Jawaban dengan Reply , tulis di kolom deskripsi, tidak berupa file
+4. Posting Jawaban pertama paling lambat JUMAT 7 Agustus 2020, posting jawaban kedua setelah ada tanggapan jawaban pertama Anda.
+5. Tanggapan jawaban akan diposting pada tanggal 8 Agustus 2020,
+6. Agar Anda dapat posting kedua, maka posting sesuai no.4, karena di luar itu tidak diberikan tanggapan.
+7. KOLOM TITLE tulis JUDUL TUGAS DAN NO.URUT ABSEN____
+
 
 # Answer (only for backup! copy paste to reply only!)
 
@@ -340,4 +403,91 @@ Mengapa Sesuai dengan upaya 1.2 Penegakan Keadilan:
 Keadilan terhadap seluruh pemeluk agama yang tinggal di negara tersebut sangat terlihat dengan jelas. Kita dapat melihat walapun terdapat keterbatasan (seperti barang2 tabu) dengan agama dimana negara ini dominan, namun mereka rela membiarkan pemeluk agama yang lain melakukannya selama tidak menggangu siapapun. Seluruh pemeluk dapat dengan damai dan dianggap sebagai manusiawi apapun itu selama tidak menggangu siapapun. Serta sebagai balasannya, seluruh pemeluk agama apapun dapat menghormati siapapun juga, seperti pada saat adzan berkumandang, dan sebagainya.  
 Ya. Tidak ada siapapun (yang dapat melakukan hal tabu bagi agama yang disebutkan, Islam) yang dilarang, selama tidak menggangu siapapun, dalam hal kedamaian, keadilan, dan sebagainya.
 
+## 7 Pek lat 
+
+SESI 8: TOPIK 7 KEMANUSIAN LF21 Absen 3
+
+1. Pendahuluan
+a. (1) Basis relasi bukan didasarkan primordial sekretarian
+Primordial artinya sesuatu yang asli dibawa sejak lahir. Sektarian adalah diskriminasiatau kebencian yang muncul akibat berbedaan diantara suatu kelompok seperti berbedaan denominasi agama atau fraksi politik. Jadi sila kedua pancasila berdasarkan relasi sosial antar manusia, tidak memandang suku, ras, dan agama.
+
+b. (2) Basis relasi sosial adalah kemanusiaan, keadilan dan keberadaban
+Harus melakukan orang secara adil & berbudaya, tidak boleh memperlakukan orang lain secara semena-mena.
+
+c. (3) Kegiatan ekonomi, politik, sosial dan budaya berbasis pada kemanusiaan, keadilan dan keberadaban
+Pembangunan ekonomi, politik, sosial, & budaya, harus memperhatikan harkat & martabat manusia secara adil & seimbang.
+
+
+2. Hakikat manusia yang adil & beradab
+a. Manusia terdiri dari tubuh-jiwa
+b. Manusia sebagai subyek otonom
+c. Manusia sebagai subyek relasional
+- Allah
+- Sesama
+- Alam
+Yang dimaksud dengan Poin 1, 2, 3 adalah:
+Manusia sebagai ciptaan Tuhan dilengkapi dengan jiwa & badan, merupakan mahluk yang unik, khas, berbeda, dan otonom. Artinya manusia dapat berelasi secara bebas dengan entitasnya seperti Tuhan, sesama, dan alam. Sila Ke-2 dalam Pancasila ini mengatur hubungan atau relasi manusia dengan sesamanya dalam realitas kehidupan sehari-hari sebagai mahluk sosial yang hidup dalam realitas masyarakat, bangsa, & negara.
+
+3. Pengalaman Sila Kemanusiaan yang adil dan beradab
+a. Bukan Materialisme
+Hidup yang berkemanusiaan adalah hidup yang bukan materialisme artinya hidup sebagai manusia yang bebas dan kepribadian manusia bukan diukur sebagai benda (hence, namanya Materialisme, Material = barang), dan manusia dapat diterima sebagai manusia, bukan sebagai objek (non-personal).
+
+b. Bukan Pragmatisme
+Hidup yang berkemanusiaan yang bukan pragmatisme adalah manusia dinilai pada dirinya sendiri & tidak direduksikan kebawah kriteria manfaat & kegunaan.
+
+c. Bukan Spiritualisme
+Hidup yang berkemanusiaan yang bukan spritualisme adalah pacasila beranggapan manusia adalah rohani & jasmani, sehingga tidak boleh direduksi pada paham spiritualisme saja yang membawa ke tindakan otoriter & tidak demokratis dari penguasa.
+
+4. Imperatif Moral Sila Kemanusiaan Yang Adil dan Beradab
+a. Relasi Etis
+b. Prinsip Sikap Baik
+c. Prinsip Hormat pada Diri Sendiri
+d. Berbagi dengan Orang Lain
+Sila ke-2 pancasila memerintahkan semua orang untuk memperlakukan dirinya dan sesama manusia lain secara bermartabat & manusiawi yang artinya menentang segala tindakan yang merendahkan, melecehkan, dan mengorbankan harkat martabat manusia
+
+5. Penutup
+Sila Kemanusiaan yang Adil dan Beradab merupakan dasar bagi relasi sosial, ekonomi, politik dan budaya.
+Tujuan sila ke-2 Pancasila yaitu membawa manusia pada kondisi-kondisi etis, sebagai makhluk individu, makhluk Tuhan, makhluk sosial, dalam hidup berbangsa & bernegara. sebagai manusia yang berkemanusiaan & berkeadilan yaitu manusia yang berbudi luhur, dewasa & matang dalam tindakannya, berlaku adil terhadap sesama, menghargai orang lain, berlaku sopan pada sesama, dan alam dalam relasi sosialnya.
+
+6. Kasus di internet hubungan antar manusia bertentangan dengan sila 2
+BLM
+https://en.wikipedia.org/wiki/Killing_of_George_Floyd ; https://en.wikipedia.org/wiki/George_Floyd ; Cari George Floyd di mesin telusur favorit anda ; dll.
+George Floyd adalah seorang supir truk, satpam, dan rapper. Beliau adalah seorang yang memiliki kulit hitam. Ia telah dibunuh oleh seorang polisi (Derek Chauvin). Derek menahan George dengan cara menindih lehernya George menggunakan kakinya, sehingga George kehilangan napas dan berakibat fatal. George ditangkap karena dituduh menggunakan uang palsu. George meninggal sebagai korban pembunuhan dan protes DUAR MELEDAK secara nasional & internasional, karena hal ini merupakan tindakan berdasarkan rasisme, dan kebrutalan polisi.  
+Penjelasan:
+Terdapat banyak kasus rasisme terhadap kulit hitam di Amerika Serikat, dimana polisi-polisi banyak cenderung menangkap orang berkulit hitam dibandingkan terhadap kulit putih. Kebanyakan kasus umumnya berdasarkan rasisme, karena mungkin apabila disimulasikan dengan 2 kasus yang yang mirip, salah satunya dengan kulit hitam, maka hasilnya pun pasti demikian.
+Melanggar sila ke-2:  
+Rasisme tidak sesuai dengan sila ke-2 karena Rasisme adalah pengutamaan terhadap ras yang dimiliki (misal putih) & kebencian terhadap ras lain (misal hitam), sesuai soal no. 1 (Primordial Sektarian). Serta Rasisme tidak beradab karena Rasisme akan dengan semena-mena mengasumsikan bahwa ras yang bukan dirinya adalah jelek dan jahat.
+
+## 8
+
+SESI 9: TOPIK 8 HAM KELAS LF21 Absen 3
+
+WARNING! Tanggapan harap direspon. Jebakan ditemukan
+
+1. https://nasional.kompas.com/read/2019/12/20/14112091/kaleidoskop-2019-pelanggaran-ham-tahun-ini-kasus-21-22-mei-hingga-tamansari?page=all#page2 
+Pilih: Kerusuhan 21-22 Mei 2019
+Aksi massa berujung kerusuhan di depan kantor Badan Pengawas Pemilu, Jalan MH Thamrin, Jakarta Pusat, pasca pengumuman pemenang Pemilihan Presiden. Kerusuhan ini juga terjadi di hampir keseluruhan Jakarta  
+Dalam kerusuhan ini terdapat 9 korban jiwa, 4 diantarnya tewas akibat peluru tajam & 5 lagi tewas akibat benda sama & benda tumpul.  
+Amnesty International Indonesia melaporkan setidaknya 4 korban dugaan penyiksaan yang dilakukan oleh personal Brimob.  
+Berdasarkan data Dinas Kesehatan DKI, terdapat 905 korban dalam kerusuhan 22 Mei tersebut. diantaranya ada yang tewas.
+Dasarnya, ada demo di depan kantor Bawaslu setelah pengumuman Pilpres tahun kemarin. Demonya jadi rusuh, dalam kerusuhan ini ternyata beberapa aparat pemerintah ketahuan menyebabkan beberapa korban jiwa terhadap member dalam aksi tersebut.
+
+2. Analisa Kasus:  
+Dalam kasus kerusuhan 21-22 Mei 2020 di Jakarta seperti berita diatas, ada beberapa pelanggaran HAM sesuai Undang-Undang No. 39 Tahun 1999 tentang HAM adalah sebagai berikut:    
+- Pelanggaran tentang penyiksaan 4 orang demonstran yang diduga dilakukan oleh aparat. Hal ini tidak sesuai dengan Pasal 4. Dimana disebutkan bahwa semua orang punya hak untuk tidak disiksa.
+- Pasal 25. Hak untuk menyampaikan pendapat di muka umum. Ya, demo itu boleh, asal tidak merugikan warga.
+- Pasal 30. Hak atas rasa aman dan tentram. Ya, tidak boleh siapapun mengancam atas suatu hal yang akan dilakukan mereka.
+- Pasal 33. Hak untuk bebas dari penyiksaan & perlakuan keja, & Hak untuk bebas dari penghilangan paksa & penghilangan nyawa. Ya. ini. beberapa aparat telah menyebabkan hilangnya lebih dari satu nyawa.
+- Pasal 34. Hak untuk tidak ditangkap, ditahan, dikucilkan, diasingkan, atau dibuang secara sewenang-wenang.
+- Pasal 71. Pemerintah wajib bertanggung jawab, menghormati, melindungi, menegakan dan memajukan HAM dalam undang-undang. Dasarnya, pemerintah & aparatnya wajib mengaplikasikan HAM terhadap warga-warganya. Ya. ini. beberapa aparat telah menyebabkan hilangnya lebih dari satu nyawa.
+Korban tidak mendapatkan haknya sesuai dengan pasal diatas.
+
+3. Melanggar sila 
+- Sila 2 (Kemanusiaan yang adil dan beradab). Karena telah menyebabkan hilangnya nyawa siapapun, artinya tidak beradab dan tidak adil.
+
+## 9
+
+SESI 10: TOPIK 9 MULTIKUTURISME KELAS LF21 Absen 3
+
+WARNING! Tanggapan harap direspon. Jebakan ditemukan
 
