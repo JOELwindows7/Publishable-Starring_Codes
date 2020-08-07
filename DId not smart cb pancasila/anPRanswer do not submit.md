@@ -491,6 +491,7 @@ WARNING! Tanggapan harap direspon. Jebakan ditemukan
 
 Soalnya tetap sama seperti edisi terdahulu (2014=2019)  
 Soal: Coba buktikan fakta-fakta kuat yang menunjukan bahwa Indonesia ini adalah Negara yang plural dan beranekaragaman! Bagaimana sebaiknya kita menghayati  keberadaan (eksistensi) kita dalam kondisi keberagaman ini? Jelaskan dan contohkan!
-Jawaban: Indonesia mengandung banyak sekali ras dan suku setiap daerah  
-
+Jawaban:   
+Fakta yang menunjukan bahwa Indonesia negara yang plural dan beraneka ragam adalah Indonesia memiliki masyarakat yang beranekaragam suku, etnis, budaya, agama, dan ras yang terjadi karena negeri Indonesia memiliki kondisi geografis iklim dan lingkungan alam yang berbeda-beda. Contoh: Jawa berbeda dengan Sumatera, Kalimantan berbeda dengan Sulawesi, Papua berbeda dengan Jawa, Flores berbeda dengan Sumatera, Timur berbeda dengan Bali dan seterusnya. Hal ini menyebabkan suku-etnis di Indonesia berbeda dalam dimensi sosio-budaya (agama/spritual, adat-tradisi, kebiasaan, pola pikir, pola perilaku, dan lain lain).
+Dengan kondisi keberagaman di Indonesia, maka kita perlu mengembangkan sikap toleransi dan menerapkan prinsip Bhineka Tunggal Ika (Berbeda-beda tetapi tetap satu). Kita juga harus mengamalkan nilai-nilai Pancasila terutama sila ke-3 Persatuan Indonesia. Kita harus saling menghormati orang lain yang berbeda dengan kita, contoh: saat bulan puasa, kita tidak makan didepan teman kita yang sedang menjalankan ibadah puasa. Dasarnya, tidak menggangu teman yang sedang berpuasa.
 
