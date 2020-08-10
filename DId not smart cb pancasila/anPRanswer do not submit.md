@@ -223,6 +223,10 @@ PERHATIAN
 6. Agar Anda dapat posting kedua, maka posting sesuai no.4, karena di luar itu tidak diberikan tanggapan.
 7. KOLOM TITLE tulis JUDUL TUGAS DAN NO.URUT ABSEN____
 
+### responde
+ Berdasarkan 4 issue utama/aktual HAM di Indonesia (halaman 98)
+Kasus yang Anda pilih termasuk isue aktual yang mana ?
+
 ## 9
 
 SESI 10: TOPIK 9 MULTIKUTURISME
@@ -242,6 +246,11 @@ PERHATIAN
 5. Tanggapan jawaban akan diposting pada tanggal 8 Agustus 2020,
 6. Agar Anda dapat posting kedua, maka posting sesuai no.4, karena di luar itu tidak diberikan tanggapan.
 7. KOLOM TITLE tulis JUDUL TUGAS DAN NO.URUT ABSEN____
+
+### responde
+ya, sama
+
+no.2 belum dijawab ya
 
 
 # Answer (only for backup! copy paste to reply only!)
@@ -483,6 +492,12 @@ Dalam kasus kerusuhan 21-22 Mei 2020 di Jakarta seperti berita diatas, ada beber
 
 3. Pelanggaran dalam nilai-nilai Pancasila adalah dalam Sila ke-2 Kemanusiaan yang adil dan beradab, Dimana didalam sila ini mempunyai makna hidup yang berkeadaban & berkeadilan. Artinya hidup yang menghargai & menghormati martabat kemanusiaan sesama dan kemanusiaan diri sendiri secara seimbang sesuai nilai-nilai budaya bangsa & nilai-nilai keadilan sosial bagi sesama. Keadilan disini berarti tidak boleh berlaku sewenang-wenang terhadap sesama yang lain. Dalam kasus kerusuhan tersebut terjadi sikap kesewenang-wenangan dan telah menyebabkan hilangnya nyawa para demonstran.
 
+### respond
+
+1. Kasus HAM diatas termasuk kasus aktual: 
+Isu aktual 2: Kekerasan atas dasar unsur politik.
+
+
 ## 9
 
 SESI 10: TOPIK 9 MULTIKUTURISME KELAS LF21 Absen 3
@@ -495,3 +510,16 @@ Jawaban:
 Fakta yang menunjukan bahwa Indonesia negara yang plural dan beraneka ragam adalah Indonesia memiliki masyarakat yang beranekaragam suku, etnis, budaya, agama, dan ras yang terjadi karena negeri Indonesia memiliki kondisi geografis iklim dan lingkungan alam yang berbeda-beda. Contoh: Jawa berbeda dengan Sumatera, Kalimantan berbeda dengan Sulawesi, Papua berbeda dengan Jawa, Flores berbeda dengan Sumatera, Timur berbeda dengan Bali dan seterusnya. Hal ini menyebabkan suku-etnis di Indonesia berbeda dalam dimensi sosio-budaya (agama/spritual, adat-tradisi, kebiasaan, pola pikir, pola perilaku, dan lain lain).
 Dengan kondisi keberagaman di Indonesia, maka kita perlu mengembangkan sikap toleransi dan menerapkan prinsip Bhineka Tunggal Ika (Berbeda-beda tetapi tetap satu). Kita juga harus mengamalkan nilai-nilai Pancasila terutama sila ke-3 Persatuan Indonesia. Kita harus saling menghormati orang lain yang berbeda dengan kita, contoh: saat bulan puasa, kita tidak makan didepan teman kita yang sedang menjalankan ibadah puasa. Dasarnya, tidak menggangu teman yang sedang berpuasa.
 
+### Respond
+2. Jelaskan faktor-faktor pendorong dan penghambat dari multikultur di Indonesia dalam mencapai Persatuan Indonesia.
+
+2.   
+a. Faktor-faktor Pendorong Multikuluralisme dalam mencapai persatuan di Indonesia:
+- Adanya semboyan negara Bhineka Tunggal Ika (Berbeda-beda tetapi tetap satu)
+- Lahirnya Sumpah Pemuda
+- Masuknya pendidikan Pancasila di sekolah-sekolah yang dapat menanamkan nilai persatuan.
+- Peran serta pemerintah dan multimedia dalam mempromosikan budaya-budaya yang ada do Indonesia.  
+b. Faktor-faktor Penghambat Multikuluralisme dalam mencapai persatuan di Indonesia:
+- Banyak kepulauan di Indonesia yang terpencar-pencar, sehingga mudah dikuasai oleh oknum pemecah belah.
+- Banyak teknologi & multimedia yang belum masuk ke pelosok-pelosok desa sehingga orang-orang yang tinggal di pelosok, sulit untuk menerima informasi-informasi positif tentang persatuan.
+- Lemahnya pengawasan dan penjagaan di perbatasan-perbatasan wilayah Indonesia sehingga sangat mudah di susupi pihak yang ingin memecah persatuan Bangsa.
