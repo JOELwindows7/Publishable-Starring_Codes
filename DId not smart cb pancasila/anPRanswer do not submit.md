@@ -270,7 +270,7 @@ PERHATIAN
 6. Agar Anda dapat posting kedua, maka posting sesuai no.4, karena di luar itu tidak diberikan tanggapan.
 7. KOLOM TITLE tulis JUDUL TUGAS DAN NO.URUT ABSEN____
 
-## 11
+## 11 difere
 TOPIK 11
 PENEGAKAN HUKUM YANG ADIL UNTUK MENGATASI KORUPSI
 
@@ -298,6 +298,47 @@ PERHATIAN
 ya, sama
 
 no.2 belum dijawab ya
+
+## 12 Vidcon 2
+MATERI DISKUSI
+TOPIK 13
+KEADILAN SOSIAL
+KELAS KE 2 LF21 4 KELOMPOK
+VICON 19 AGUSTUS PK 07. 20
+
+
+
+KELOMPOK 4
+3. Keadilan dan Hakekatnya
+4. Pembagian Keadilan
+
+
+KELOMPOK 5
+3. Perbedaan Keadilan Individual dan Keadilan Sosial
+4. Mengusahakan Keadilan Sosial
+
+KELOMPOK 6
+3. Masalah-masalah yang Terkait dengan Keadilan Sosial (minimal 3)
+4. Cari berita-berita yang terkait dengan no 1.
+
+KELOMPOK 7
+1. Masalah-masalah yang Terkait dengan Keadilan Sosial (minimal 3)
+2. Cari berita-berita yang terkait dengan no 1.
+
+
+
+CATATAN:
+1. Buat dalam bentuk slide PPT, di sudut kanan bawah tulis nama yang buat/presntasi
+2. Semua anggota kelompok terlibat.
+3. Mohon disiapkan untuk Vicon tanggal 19 Agustus 2020
+4. Pada saat vicon semua mahasiswa hadir belajar, dilarang mengerjakan pekerjaan lain atau berkendara.
+5. Ketua kelompok : Yang nama no . 1 di daftar kelompok, beranggung jawab atas presentasi ini, jika no1 tidak ikut di SP, maka yang no.2.
+6. Setiap anggota kelompok memastikan bahwa ada ketua kelompok.
+7. Materi utama dari buku wajib, pengayaan dari sumber lain
+
+8. Kelompok 6 dan 7
+1) masalah harus berbeda (sebelumnya komunikasikan antar kelompok)
+2) masalah tersebut merupakan masalah yang penanganannya berhubungan dengan pemerintah/negara. Untuk jelasnya baca buku wajib halaman 160-161
 
 
 # Answer (only for backup! copy paste to reply only!)
@@ -570,3 +611,31 @@ b. Faktor-faktor Penghambat Multikuluralisme dalam mencapai persatuan di Indones
 - Banyak kepulauan di Indonesia yang terpencar-pencar, sehingga mudah dikuasai oleh oknum pemecah belah.
 - Banyak teknologi & multimedia yang belum masuk ke pelosok-pelosok desa sehingga orang-orang yang tinggal di pelosok, sulit untuk menerima informasi-informasi positif tentang persatuan.
 - Lemahnya pengawasan dan penjagaan di perbatasan-perbatasan wilayah Indonesia sehingga sangat mudah di susupi pihak yang ingin memecah persatuan Bangsa.
+
+## 10
+
+
+SESI 11 TOPIK 10 INTERAKSI ANTAR BUDAYA LF21 Absen 3
+
+1. Perlunya memepelajari interaksi antar budaya
+Budaya merupakan budaya hasil interaksi manusia dengan manusia dan interaksi manusia dengan alam dengan mengeksplorasi dan mengembangkan kualifikasi akal budi yang ada pada setiap manusia di bumi ini. Kebudayaan mencapai aspek yang komplek yaitu: pengetahuan, kepercayaan, kesenian, moral, hukum, adat istiadat, dan kebiasaan-kebiasaan yang didapat manusia sebagai masyarakat. Fungsi kebudayaan bagi masyarakat adalah melindungi diri terhadap alam dan menguasainya serta mengatur hubungan antar manusia dan sebagai wadah untuk mengunkapkan perasaan. Kebudayaan adalah karunia bagi umat manusia. Kebudayaan mampu mengantar manusia pada capaian puncak peradaban yang lebih tinggi dari masa ke masa, dan manusia sebagai aktor budaya mampu merefleksikan nilai dan mengekspresikan secara kreatif dan inovatif dalam hidupnya. Manusia hidup dalam lingkar kultur yang khas, khusus dan unik. Sehingga didalam dunia ini ada keanekaragaman budaya. Ditengah keanekaragaman budaya ini, manusia harus saling berhubungan dan berkomunikasi satu sama lain. Komunikasi dapat menggunakan tanda, lambang, dan simbol budaya yang dimilikinya. Oleh karena itulah mengapa kita perlu untuk mempelajari interaksi antar budaya, yaitu agar kita dapat menjalin komunikasi yang baik antar sesama sehingga dapat tercipta persatuan dan kesatuan bangsa dalam keberagaman. Hal ini sesuai dengan nilai-nilai PANCASILA sila ke-tiga yaitu Persatuan Indonesia. Dengan mempelajari budaya daerah lain, kita dapat mengamalkan semboyan Bhineka Tunggal Ika (Walaupun berbeda-beda tetapi tetap satu). Terlebih di era globalisasi ini dimana teknologi menjelajah dengan bebas ke seluruh belahan dunia dan membawa prasasti kebudayaannya dan arus migrasi penduduk dari berbagai belahan dunia masuk ke negara lain dengan bebas. sehingga budaya barat dapat tumbuh subur di dunia timur, dan budaya timur berpeluang berkembang di belahan dunia barat. Untuk itulah perlu kita mempelajari interaksi budaya agar kita bisa menjaga sikap dengan tetap mengambil hal-hal yang positif dan sesuai dengan budaya bangsa Indonesia.
+
+2. Disorientasi budaya
+Pilih Disorientasi Budaya No. 6 Konsumsi simbol dan gaya hidup 
+a. Perilaku: Disorientasi budaya Konsumtif, suka berbelanja tanpa henti, boros, tidak dapat mengatur diri.
+b. Wanita ini terlilit hutang karena suka berbelanja tanpa moderasi (boros), tidak berhati-hati dan tidak mengatur diri soal keuangan. Wanita ini adalah Jocelyn Wildenstein, merupakan sosialita asal New York, memiliki perilaku menghambur-hamburkan uang ke suatu acara-acara & belanja. Beliau memiliki beberapa barang mewah seperti mobil mewah, apartemen, dan lain-lain. Ia juga pernah operasi plastik banyak kali hingga uangnya habis.
+Hal ini dapat dilihat bahwa Jocelyn memiliki hobi berbelanja berlebihan. Ia gemar berbelanja barang-barang yang sangat mahal harganya. Ia memulai hobi ini sejak ia menikah dengan seorang milyuner Alec Wildenstein.
+c. Kasus: https://www.cnbcindonesia.com/lifestyle/20181019132122-33-38150/boros-belanja-sosialita-ini-jatuh-miskin-dan-terlilit-utang
+Bonus: http://www.koran-jakarta.com/budaya-konsumtif-yang-mengancam-generasi-milenial/
+Bagaimana mengatur diri agar tidak terbawa arus globalisasi tersebut?:
+Sesuai dengan artikel Koran Jakarta & Kasus diatas, kita dapat menjaga diri dengan:
+- Menetapkan batas pengeluaran. Menahan diri untuk tidak berbelanja melebihi kemampuan finansial
+- Hindari Jalan pintas. HINDARI BERHUTANG SAMA SEKALI BILA TIDAK TERPAKSA, YANG TERBAIK HINDARI KARTU KREDIT SAMA SEKALI (untuk bahkan barang kebutuhan juga)!!! Kartu kredit hanya untuk situasi darurat. Hindari mengajukan kartu kredit, sebaiknya kartu debit. Jika sampai terlilit utang kartu kredit, maka selamat, hidup anda akan tersiksa lama waktu.
+- Pandai berbelanja. membandingkan harga dari satu toko online, ke toko online yang lain untuk mendapatkan harga yang pantas, barang terjamin, dan sebagainya.
+- Investasi. Menabung demi jangka panjang, memiliki cara pendapatan pasif (misal Reksa Dana, Menabung emas, STONK Bursa efek), dan sebagainya.
+
+
+karena banyak dapaat belanja barang dari luar yang membuat percaya barang lebih bagus dari yang di Indonesia
+
+## 11 difere
+ 
