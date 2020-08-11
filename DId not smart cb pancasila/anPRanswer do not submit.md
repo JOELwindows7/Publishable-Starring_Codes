@@ -247,6 +247,53 @@ PERHATIAN
 6. Agar Anda dapat posting kedua, maka posting sesuai no.4, karena di luar itu tidak diberikan tanggapan.
 7. KOLOM TITLE tulis JUDUL TUGAS DAN NO.URUT ABSEN____
 
+## 10
+TOPIK 10 INTERAKSI ANTAR BUDAYA
+BACA DULU MATERI DARI BUKU WAJIB
+BACA ...BACA....BACA....BACA
+
+1. Mengapa pada era ini perlu mempelajari interaksi antar budaya, jelaskan alasan Anda dengan menghubungkan sila Pancasila yang terkait. Minimal 200 kata.
+2. Cari 1 kasus dari internet tentang disorientasi budaya yang melanda anak muda di Indonesia berhadapan dengan masuknya budaya asing di era globalisasi ini!
+Bagaimana caranya menjaga diri sesuai kasus tersebut agar tidak hanyut dibawa tarikan arus globalisasi itu yang membuat generasi muda lupa akan akar-akar budaya Indonesia. Jelaskan dan contohkan.
+CATATAN:
+• UNTUK MENCARI KASUS YANG DIMAKSUD, TENTUKAN DULU PERILAKU YANG TERMASUK DALAM DISORIENTASI BUDAYA. BERDASARKAN PERILAKU TSB. ANDA SEARCH DI INTERNET.
+• PERILAKU BISA SAMA BOLEH BEDA, TAPI KASUS/KEJADIAN HARUS BERBEDA.
+• TULIS JAWABAN ANDA: a. Perilakunya b. Ringkasan kasus (bukan copy paste semua kejadian kasus tsb.) c. Alamat web.
+
+
+PERHATIAN
+1. Setiap mahasiswa memberikan jawaban atas pertanyaan tersebut
+2. Jawaban harus orisinil, jawaban yang sama atau mirip dinilai 0
+3. Jawaban dengan Reply , tulis di kolom deskripsi, tidak berupa file
+4. Posting Jawaban pertama paling lambat JUMAT 14 Agustus 2020, posting jawaban kedua setelah ada tanggapan jawaban pertama Anda.
+5. Tanggapan jawaban akan diposting pada tanggal 15 Agustus 2020,
+6. Agar Anda dapat posting kedua, maka posting sesuai no.4, karena di luar itu tidak diberikan tanggapan.
+7. KOLOM TITLE tulis JUDUL TUGAS DAN NO.URUT ABSEN____
+
+## 11
+TOPIK 11
+PENEGAKAN HUKUM YANG ADIL UNTUK MENGATASI KORUPSI
+
+BACA DULU MATERI DARI BUKU WAJIB
+BACA ...BACA....BACA....BACA
+
+Pada awal 2020, Transparency International Indonesia (TII) merilis data indeks korupsi persepsi korupsi di mana Indonesia berada pada peringkat 85 dari 180 negara di dunia. Indonesia mendapatkan skor 40 dari rentang 0-100.
+1. Menurut Anda, persoalan apa saja yang membuat pemberantasan korupsi di Indonesia belum begitu optimal?
+2. Apa yang menjadi faktor penyebabnya?
+3. Apa jalan keluar yang bisa ditawarkan?
+
+
+
+PERHATIAN
+1. Setiap mahasiswa memberikan jawaban atas pertanyaan tersebut
+2. Jawaban harus orisinil, jawaban yang sama atau mirip dinilai 0
+3. Jawaban dengan Reply , tulis di kolom deskripsi, tidak berupa file
+4. Posting Jawaban pertama paling lambat JUMAT 14 Agustus 2020, posting jawaban kedua setelah ada tanggapan jawaban pertama Anda.
+5. Tanggapan jawaban akan diposting pada tanggal 15 Agustus 2020,
+6. Agar Anda dapat posting kedua, maka posting sesuai no.4, karena di luar itu tidak diberikan tanggapan.
+7. KOLOM TITLE tulis JUDUL TUGAS DAN NO.URUT ABSEN____
+
+
 ### responde
 ya, sama
 
