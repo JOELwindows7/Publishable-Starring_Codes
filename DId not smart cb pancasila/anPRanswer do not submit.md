@@ -247,6 +247,11 @@ PERHATIAN
 6. Agar Anda dapat posting kedua, maka posting sesuai no.4, karena di luar itu tidak diberikan tanggapan.
 7. KOLOM TITLE tulis JUDUL TUGAS DAN NO.URUT ABSEN____
 
+### responde
+ya, sama
+
+no.2 belum dijawab ya
+
 ## 10
 TOPIK 10 INTERAKSI ANTAR BUDAYA
 BACA DULU MATERI DARI BUKU WAJIB
@@ -270,6 +275,9 @@ PERHATIAN
 6. Agar Anda dapat posting kedua, maka posting sesuai no.4, karena di luar itu tidak diberikan tanggapan.
 7. KOLOM TITLE tulis JUDUL TUGAS DAN NO.URUT ABSEN____
 
+### respondo
+aa
+
 ## 11 difere
 TOPIK 11
 PENEGAKAN HUKUM YANG ADIL UNTUK MENGATASI KORUPSI
@@ -292,12 +300,8 @@ PERHATIAN
 5. Tanggapan jawaban akan diposting pada tanggal 15 Agustus 2020,
 6. Agar Anda dapat posting kedua, maka posting sesuai no.4, karena di luar itu tidak diberikan tanggapan.
 7. KOLOM TITLE tulis JUDUL TUGAS DAN NO.URUT ABSEN____
-
-
-### responde
-ya, sama
-
-no.2 belum dijawab ya
+### respondo
+aaa
 
 ## 12 Vidcon 2
 MATERI DISKUSI
