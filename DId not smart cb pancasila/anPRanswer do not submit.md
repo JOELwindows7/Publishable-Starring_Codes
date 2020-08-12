@@ -642,4 +642,24 @@ Sesuai dengan artikel Koran Jakarta & Kasus diatas, kita dapat menjaga diri deng
 karena banyak dapaat belanja barang dari luar yang membuat percaya barang lebih bagus dari yang di Indonesia
 
 ## 11 difere
+
+SESI12 TOPIK 11 MENGATASI KORUPSI LF21 Absen 3
+
+1. Persoalan-persoalan yang membuat pemberantasan korupsi di Indonesia belum optimal adalah:
+- Korupsi telah sangat mengakar dan melembaga di Institusi-institusi birokrasi dan masyarakat sehingga para pejabat publik, institusi pemerintahan, dan lembaga hukum yang seharusnya berperan aktif untuk memberantas korupsi menjadi ikut korupsi.
+- tidak kuatnya lembaga Komisi Pemberantasan Korupsi yang seharusnya independen dalam menangani para pelanggar / koruptor tetapi lembaga KPK seringkali mendapat intervensi dan ancaman.
+- Kurangnya penamaman integritas standar (kejujuran, tanggung jawab) kepada setiap masyarakat yang seharusnya ditanamkan sejak dini dikeluarga dan dunia pendidikan
+
+2. Yang menjadi faktor penyebab pemberantasan korupsi di Indonesia belum optimal, adalah
+- adanya praktek politik uang oleh partai politik pada pilkada, pemilu, dimana partai politik yang ingin berkuasa saat mencalonkan diri dan berkampanye menggunakan dana yang besar, sedangkan pada saat berkuasa, hanya bisa mengumpulkan dana sedikit. sehingga memaksa korupsi pada saat berkuasa untuk mengembalikan dana yang telah digunakan
+- Budaya di Indonesia yang memberikan privilege / hak istimewa pada penguasa sehingga banyak orang yang termotivasi untuk berkuasa dengan cara yang tidak benar dan bertujuan mengumpulkan kekayaan untuk kepentingan pribadi melalui korupsi.
+- Sistem yang ada dalam pemerintahan tidak terbuka sehingga membuka peluang terjadinya pelanggaran oleh pejabat publik.
+
+3. Jalan keluar yang dapat ditawarkan adalah:
+- Akuntabilitas dan keterbukaan anggararan.
+Ada kewajiban setiap pejabat publik untuk melaporkan dan mempertanggungjawabkan kinerjanya ke pihak yang lebih tinggi dan ke publik secara transparan dan kesediaan untuk secara berkala diaudit oleh lembaga auditor.
+- Penguatan Lembaga Komisi Pemberantasan Korupsi.
+dibentuk lembaga KPK yang independen, memiliki integritas dan tidak bisa dipengaruhi pihak manapun.
+- Penguatan peran media massa dan partisipasi civil society 
+Media massa harus berperan aktif sebagai peradilan yang independen dan menyajikan informasi-informasi penting dalam sistem pemerintahan. Partisipasi masyarakat sipil melalui LSM, Serikat Buruh, organisasi kepemudaan, organisasi keagamaan, dan lain-lain sangat diperlukan dalam menghentikan rantai korupsi.
  
