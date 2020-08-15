@@ -662,4 +662,19 @@ Ada kewajiban setiap pejabat publik untuk melaporkan dan mempertanggungjawabkan 
 dibentuk lembaga KPK yang independen, memiliki integritas dan tidak bisa dipengaruhi pihak manapun.
 - Penguatan peran media massa dan partisipasi civil society 
 Media massa harus berperan aktif sebagai peradilan yang independen dan menyajikan informasi-informasi penting dalam sistem pemerintahan. Partisipasi masyarakat sipil melalui LSM, Serikat Buruh, organisasi kepemudaan, organisasi keagamaan, dan lain-lain sangat diperlukan dalam menghentikan rantai korupsi.
+
+### respond 
+Jawaban no.2 sebaiknya dijelaskan faktor internal dan ekternal pemicu korupsi
+
+2. Faktor pemicu korupsi:
+Faktor Eksternal:
+- adanya praktek politik uang oleh partai politik pada pilkada, pemilu, dimana partai politik yang ingin berkuasa saat mencalonkan diri dan berkampanye menggunakan dana yang besar, sedangkan pada saat berkuasa, hanya bisa mengumpulkan dana sedikit. sehingga memaksa korupsi pada saat berkuasa untuk mengembalikan dana yang telah digunakan
+- Budaya di Indonesia yang memberikan privilege / hak istimewa pada penguasa sehingga banyak orang yang termotivasi untuk berkuasa dengan cara yang tidak benar dan bertujuan mengumpulkan kekayaan untuk kepentingan pribadi melalui korupsi.
+- Sistem yang ada dalam pemerintahan tidak terbuka sehingga membuka peluang terjadinya pelanggaran oleh pejabat publ
+
+Faktor Internal (dari dalam diri koruptor):
+- Kurangnya ketakwaan kepada Tuhan
+- Kurangnya pemahaman mengenai nilai-nilai dasar Pancasila seperti Kemanusiaan, Keberadaban, dan keadilan.
+- Pendidikan dalam keluarga tidak menanamkan nilai-nilai kejujuran 
+- Memiliki budaya konsumtif.
  
