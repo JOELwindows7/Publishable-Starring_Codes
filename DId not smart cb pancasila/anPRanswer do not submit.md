@@ -344,6 +344,111 @@ CATATAN:
 1) masalah harus berbeda (sebelumnya komunikasikan antar kelompok)
 2) masalah tersebut merupakan masalah yang penanganannya berhubungan dengan pemerintah/negara. Untuk jelasnya baca buku wajib halaman 160-161
 
+## 14
+SESI 14 TOPIK 12 DEMOKRASI PANCASILA
+BACA DULU MATERI DARI BUKU WAJIB
+BACA ...BACA....BACA....BACA
+
+
+1. Jelaskan pemahaman Anda terkait dengan “Demokrasi Pancasila” jika dilihat dari setiap periode perkembangan demokrasi di Indonesia. Minimal 300 kata, yang merupakan hasil refleksi Anda, bukan pendapat orang lain atau copy dari web.
+
+2. Cari 1 artikel dari internet tentang lembaga atau tokoh yang menghayati demokrasi Pancasila dalam dirinya, entah individual atau kelompok, maupun organisasi! Anda belajar makna/nilai apa dari artikel tsb. untuk hidupmu agar lebih demokratis.
+(Artikel ringkasan saja 1-3 paragraf, tulis sumbernya, setiap Anda memilih tokoh yang berbeda)
+
+
+PERHATIAN
+1. Setiap mahasiswa memberikan jawaban atas pertanyaan tersebut
+2. Jawaban harus orisinil, jawaban yang sama atau mirip dinilai 0
+3. Jawaban dengan Reply , tulis di kolom deskripsi, tidak berupa file
+4. Posting Jawaban pertama paling lambat JUMAT 21 Agustus 2020, posting jawaban kedua setelah ada tanggapan jawaban pertama Anda.
+5. Tanggapan jawaban akan diposting pada tanggal 22 Agustus 2020,
+6. Agar Anda dapat posting kedua, maka posting sesuai no.4, karena di luar itu tidak diberikan tanggapan.
+7. KOLOM TITLE tulis JUDUL TUGAS DAN NO.URUT ABSEN____
+
+
+## 15
+SESI 15: TOPIK 13 KEADILAN SOSIAL
+BACA DULU MATERI DARI BUKU WAJIB
+BACA ...BACA....BACA....BACA
+
+
+1. Jelaskan dengan sekurang-kurangnya 3 contoh yang berkaitan dengan makna dari Sila “KEADILAN SOSIAL BAGI SELURUH RAKYAT INDONESIA”
+2. Bagaimana cara mengusahakan keadilan sosial di Indonesia
+
+PERHATIAN
+1. Setiap mahasiswa memberikan jawaban atas pertanyaan tersebut
+2. Jawaban harus orisinil, jawaban yang sama atau mirip dinilai 0
+3. Jawaban dengan Reply , tulis di kolom deskripsi, tidak berupa file
+4. Posting Jawaban pertama paling lambat JUMAT 21 Agustus 2020, posting jawaban kedua setelah ada tanggapan jawaban pertama Anda.
+5. Tanggapan jawaban akan diposting pada tanggal 22 Agustus 2020,
+6. Agar Anda dapat posting kedua, maka posting sesuai no.4, karena di luar itu tidak diberikan tanggapan.
+7. KOLOM TITLE tulis JUDUL TUGAS DAN NO.URUT ABSEN____
+
+# Barrier A 
+
+```
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+```
+
+# Barrier B 
 
 # Answer (only for backup! copy paste to reply only!)
 
@@ -670,11 +775,62 @@ Jawaban no.2 sebaiknya dijelaskan faktor internal dan ekternal pemicu korupsi
 Faktor Eksternal:
 - adanya praktek politik uang oleh partai politik pada pilkada, pemilu, dimana partai politik yang ingin berkuasa saat mencalonkan diri dan berkampanye menggunakan dana yang besar, sedangkan pada saat berkuasa, hanya bisa mengumpulkan dana sedikit. sehingga memaksa korupsi pada saat berkuasa untuk mengembalikan dana yang telah digunakan
 - Budaya di Indonesia yang memberikan privilege / hak istimewa pada penguasa sehingga banyak orang yang termotivasi untuk berkuasa dengan cara yang tidak benar dan bertujuan mengumpulkan kekayaan untuk kepentingan pribadi melalui korupsi.
-- Sistem yang ada dalam pemerintahan tidak terbuka sehingga membuka peluang terjadinya pelanggaran oleh pejabat publ
+- Sistem yang ada dalam pemerintahan tidak terbuka sehingga membuka peluang terjadinya pelanggaran oleh pejabat publik 
 
 Faktor Internal (dari dalam diri koruptor):
 - Kurangnya ketakwaan kepada Tuhan
 - Kurangnya pemahaman mengenai nilai-nilai dasar Pancasila seperti Kemanusiaan, Keberadaban, dan keadilan.
 - Pendidikan dalam keluarga tidak menanamkan nilai-nilai kejujuran 
 - Memiliki budaya konsumtif.
+
+## 12
+Demokrasi PANCASILA
+
+SESI 14 TOPIK 12 DEMOKRASI PANCASILA LF21 Absen 3
+
+1. Demokrasi adalah sistem pemerintahan dari rakyat oleh rakyat dan untuk rakyat. Di Indonesia menerapkan sistem pemerintahan demokrasi yang berlandaskan Pancasila dan undang-undang dasar 1945. Sistem pemerintahan yang berdasarkan demokrasi Pancasila, maka arah politiknya harus berlandaskan nilai-nilai Pancasila. Jika nilai-nilai Pancasila mulai diabaikan, maka akan terjadi berbagai penyimpangan dalam pemerintahan. salah satu contoh adalah: Pada masa pemerintahan orde baru terjadi kegagalan penerapan demokrasi pancasila dimana presiden sangat mendominasi pemerintahan dan terbatasnya peran partai partai politik sehingga nilai-nilai Pancasila tentang kerakyatan yang ikut memimpin dalam pemerintah tidak terjadi. Dalam pemerintahan mulai timbul birokratisasi dan sentralisasi pengambilan keputusan politik. Demokrasi Pancasila dapat dilaksanakan dengan baik jika nilai-nilai Pancasila yang terkandung didalamnya dipakai dan dihayati sebagai nilai-nilai budaya politik. Untuk membangun nilai-nilai Pancasila agar menjadi budaya dalam dunia politik maka diperlukan perubahan cara berpikir melalui pendidikan sehingga pada akhirnya akan memajukan kehidupan Bangsa dan negara. Keberhasilan pelaksanaan demokrasi Pancasila didalam pemerintahan butuh peran serta seluruh masyarakat karena partisipasi masyarakat diperlukan sebagai indikator keberhasilan pelaksanaan demokrasi dan sebagai kontrol bagi pelaksana pemerintahan hal tersebut karena salah satu kegagalan berdemokrasi adalah ketika banyak orang yang mengingkari dan tidak melaksanakan Pancasila dan Undang-Undang Dasar 1945 secara murni dan konsekuen sehingga masih banyak terjadi KKN (Korupsi, Kolusi, Nepotisme) didalam pemerintahan. Jika Demokrasi Pancasila tidak dilaksanakan dengan sungguh-sungguh maka negara tidak berjalan dengan baik, dan terjadi kemunduran. Jika sistem demokrasi Pancasila diterapkan dengan benar, maka akan terjadi bahwa segala keputusan yang diambil berdasarkan suara rakyat, kepentingan bersama lebih penting daripada kepentingan individu/golongan, pemerintahan dijalankan atas kepentingan rakyat dan kedaulatan ada di tangan rakyat. Ini semua merupakan pengamalan dari sila ke-4 yang menjadi dasar demokrasi Pancasila. Agar rakyat sebagai pemegang kekuasaan dapat berjalan dengan benar, maka rakyat sebagai kunci pelaksanaan demokrasi perlu untuk diberikan pendidikan nilai-nilai Pancasila sejak dini. Baik didalam keluarga maupun dalam dunia pendidikan. Sehingga pada saatnya, rakyat sebagai pengambil kebijakan yang duduk dalam politik dan pemerintahan akan melaksanakan fungsinya dengan baik dan benar, tidak mengingkari konsitusi, dan melanggar nilai-nilai Pancasila, sehingga melalui demokrasi Pancasila ini akan terwujud cita-cita negara Indonesia yaitu menjadi negara yang adil dan makmur.
+
+2. Tokoh Demokrasi 
+https://www.dw.com/id/gus-dur-pahlawan-rakyat/a-40375142
+Tokoh Yang Menghayati Demokrasi Pancasila: Abdurahman Wahid (Gus Dur)
+Gus Dur adalah Tokoh yang menghargai perbedaan dan hak-hak social masyarakat dari berbagai kalangan sosial, politik, budaya, dan agama. Salah satu perannya untuk masyarakat adalah: mengeluarkan kebijakan perlindungan hak-hak buruh domestik maupun migran, dengan mencabut kebijakan yang eksploitatif. Dasarnya, ia membuat kebijakan agar segala aspek demokrasi seperti hak-hak dapat tercapai, menghilangkan kekuasaan yang menimbulkan opresi terhadap demokrasi, dan mendukung adanya pluralisme.
+ 
+
+## 13
+
+## 14
+
+## 15
+SESI 15: TOPIK 13 KEADILAN SOSIAL Absen 3
+
+1. Makna Keadilan sosial bagi Seluruh Rakyat Indonesia adalah Keadilan yang merata untuk seluruh rakyat di segala bidang politik, ekonomi, hukum, moral, dan keagamaan.
+Berikut contoh makna keadilan bagi seluruh rakyat Indonesia:
+- Keadilan sosial dalam bidang keagamaan
+di Indonesia mengenal 5 agama, dimana seluruh rakyat Indonesia wajib memiliki agama dan saling toleransi antar agama. Pada saat hari besar keagamaan misal bulan puasa, orang yang tidak menjalankan ibadah puasa wajib menghormati orang yang berpuasa, tetapi ada beberapa kelompok masyarakat yang memaksakan seluruh restoran / tempat makan ditutup selama bulan puasa dengan alasan mayoritas masyarakat Indonesia menjalankan puasa. Hal ini tidak sesuai dengan nilai-nilai keadilan sosial karena keadilan sosial tidak mengenal mayoritas dan minoritas, tetapi semua harus secara seimbang menhormati satu dengan yang lainnya bagi minoritas yang membuka restoran memerlukan bisnis tersebut untuk menghidupi keluarganya.
+- Keadilan sosial dalam bidang hukum
+seluruh rakyat Indonesia baik itu masyarakat yang kurang mampu maupun pengusaha atau pejabat pemerintah sama dihadapan hukum. Contoh: Ada seorang nenek yang memerlukan kayu bakar mengambil sepotong kayu dihutan kayu tersebut milik sebuah perusahaan. Nenek yang renta dan hanya mengambil sebongkah kayu dituntut hukuman penjara karena dianggap mencuri kayu. Hal ini seharusnya tidak perlu memenjarakan nenek yang sudah tua dibanding dengan banyak pengusaha yang melakukan pembalakan liar dengan mencuri kayu yang lebih banyak namun bisa terluput dari jerat hukum. Disini terlihat keadilan sosial di bidang hukum Indonesia belum berjalan. Seharusnya seorang nenek hanya diberikan pembinaan.
+- Keadilan sosial dalam bidang ekonomi
+Salah satu cita-cita pendiri bangsa adalah pemerataan ekonomi bagi masyarakat di Indonesia. Artinya seluruh rakyat Indonesia baik pengusaha besar maupun pengusaha kecil mempunyai peluang yang sama dalam percaturan bisnis, tetapi yang terjadi di Indonesia jika ada kebutuhan barang-barang di pemerintahan atau swasta, tender banyak dimenangkan oleh pengusaha besar dan tidak memberikan kesempatan pada UMKM (Usaha Mikro Kecil dan Menengah). hal ini terlihat bahwa pemerintah belum dapat mewujudkan keadilan sosial bagi UMKM.
+2. Cara mengusahakan keadilan sosial di Indonesia
+Untuk mengusahakan keadilan sosial di Indonesia, perlu mengubah atau membongkar struktur politik, budaya, dan ideologi yang menyebabkan segolongan orang tidak memperoleh apa yang menjadi hak mereka. Keadilan sosial hanya dapat diusahakan oleh negara karena kebijakan-kebijakan yang diambil oleh negara mempunyai dampak paling besar terhadap perkembangan struktur politik, ekonomi, sosial, budaya, dan ideologi. Jadi negara memiliki tanggung jawab untuk mewujudkan keadilan bagi seluruh rakyatnya. bagi rakyat Indonesia harus membantu pemerintah dalam mewujudkan keadilan sosial dengan
+- Saling menghormati hak dan kewajiban yang dimiliki orang lain.
+- Bersikap adil dan tidak diskriminatif terhadap sesama.
+- menjaga keseimbangan hak dan kewajiban.
+- mengembangkan perbuatan yang luhur (Gotong Royong), bersikap jujur, berbuat baik, membantu sesama.
+
+### Respondo
+NO1. Bagaimana kesimpulan pelaksanaan demokrasi pancasila setiap periode
+No2. oke
+
+1. Kesimpulan pelaksanaan demokrasi Pancasila setiap periode sebagai berikut:
+- Periode 1945-1959
+Pada periode ini menerapkan demokrasi parlementer, tetapi tidak sesuai diterapkan di Indonesia karena ada 2 kepala yang mengatur negara, yaitu kepala negara & kepala pemerintahan. Sehingga melemahkan persatuan bangsa
+- Periode 1959-1965
+Pada periode ini diterapkan demokrasi terpimpin, dan terjadi penyimpangan terhadap nilai-nilai demokrasi karena terpusatnya kekuasaan pada diri pemimpin.
+- Periode 1965-1998
+Pada periode ini diterapkan demokrasi Pancasila versi Orde Lama, dan terjadi penyimpangan karena presiden sangat mendominasi pemerintahan serta terbatasnya peran partai politik.
+- Periode 1998-Sekarang
+Pada periode ini diterapkan demokrasi Pancasila setelah reformasi, dan demokrasi berjalan sesuai dengan nilai-nilai Pancasila yaitu dari rakyat, oleh rakyat, untuk rakyat, meskipun masih terjadi beberapa penyimpangan dalam pemerintahan karena beberapa orang mengingkari nilai-nilai Pancasila seperti masih terjadinya korupsi dan kurang memperdulikan rakyat.
+
+
  
