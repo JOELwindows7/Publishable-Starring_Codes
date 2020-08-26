@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=LevelButton
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ LevelButton\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=java.lang.String\ getlabelName()
+comment3.params=newName
+comment3.target=void\ setLabelName(java.lang.String)
+comment4.params=name
+comment4.target=void\ WriterA(java.lang.String)
+numComments=5

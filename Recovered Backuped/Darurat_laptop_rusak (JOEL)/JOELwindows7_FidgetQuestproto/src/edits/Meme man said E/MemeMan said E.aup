@@ -1,0 +1,25 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="MemeMan said E_data" version="1.3.0" audacityversion="2.2.2" sel0="0.0000000000" sel1="0.0000000000" vpos="0" h="0.0000000000" zoom="366.2109375000" rate="16000.0" snapto="off" selectionformat="jj:mm:dd: + milidetik" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags>
+		<tag name="COMMENTS" value="Text2Speech.org. This site uses flite Speech system!"/>
+	</tags>
+	<wavetrack name="meme-man_Markiplied_E" channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="16000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="7685">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808c3c.au" len="7685" min="-3.166717" max="2.709454" rms="0.72573"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="0.48031250" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="159999">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808eed.au" len="159999" min="-1.175519" max="1.367154" rms="0.132454"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>

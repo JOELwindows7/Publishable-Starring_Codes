@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=endLevelBar
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ endLevelBar\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=satus
+comment1.target=endLevelBar(java.lang.Boolean)
+comment2.params=satus\ SayCustom
+comment2.target=endLevelBar(java.lang.Boolean,\ java.lang.String)
+comment3.params=world
+comment3.target=void\ addedToWorld(greenfoot.World)
+comment4.params=
+comment4.target=void\ act()
+comment4.text=\r\n\ Act\ -\ do\ whatever\ the\ endLevelBar\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment5.params=choices
+comment5.target=void\ setLevelBool(boolean)
+numComments=6

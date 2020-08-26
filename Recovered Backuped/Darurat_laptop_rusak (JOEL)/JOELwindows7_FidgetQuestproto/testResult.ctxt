@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=testResult
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ testResult\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=testResult()
+comment2.params=world
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment3.params=
+comment3.target=Kounter\ getSkore()
+comment4.params=
+comment4.target=void\ prepare()
+comment4.text=\r\n\ Prepare\ the\ world\ for\ the\ start\ of\ the\ program.\r\n\ That\ is\:\ create\ the\ initial\ objects\ and\ add\ them\ to\ the\ world.\r\n
+comment5.params=
+comment5.target=void\ restartWorld()
+comment6.params=
+comment6.target=void\ nextWorld()
+numComments=7

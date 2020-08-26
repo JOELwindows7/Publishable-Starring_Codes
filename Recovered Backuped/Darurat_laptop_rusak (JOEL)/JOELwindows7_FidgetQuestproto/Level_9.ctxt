@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Level_9
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Level_9\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Level_9()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Level_9.\r\n\ \r\n
+comment10.params=
+comment10.target=void\ act()
+comment2.params=
+comment2.target=void\ setField()
+comment3.params=
+comment3.target=void\ nextLevel()
+comment4.params=
+comment4.target=void\ restartLevel()
+comment5.params=
+comment5.target=void\ wrongAnswer()
+comment6.params=
+comment6.target=void\ correctAnswer()
+comment7.params=
+comment7.target=boolean\ getLevelWronged()
+comment8.params=
+comment8.target=void\ prepare()
+comment9.params=
+comment9.target=int\ returnNum()
+numComments=11

@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=HUD
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ HUD\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=teks\ xKord\ yKord
+comment1.target=void\ spitTheText(java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ levelIntros()
+comment4.params=
+comment4.target=void\ levelIsCompleted()
+comment5.params=
+comment5.target=void\ levelisFailed()
+comment6.params=number
+comment6.target=void\ levelIsAidingSomeTests(int)
+comment7.params=
+comment7.target=void\ setLevelText()
+comment8.params=
+comment8.target=greenfoot.Actor\ getNewStillActor()
+comment9.params=x\ y
+comment9.target=void\ setLocation(int,\ int)
+numComments=10

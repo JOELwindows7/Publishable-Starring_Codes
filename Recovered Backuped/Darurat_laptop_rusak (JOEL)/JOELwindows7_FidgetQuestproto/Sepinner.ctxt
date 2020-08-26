@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Sepinner
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Sepinner\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ selfDestruct()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Sepinner\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment10.params=
+comment10.target=void\ act()
+comment2.params=
+comment2.target=boolean\ isDedNau()
+comment3.params=
+comment3.target=boolean\ iGotEm()
+comment4.params=
+comment4.target=void\ increaseTier()
+comment5.params=what
+comment5.target=void\ setTier(int)
+comment6.params=speed
+comment6.target=void\ spinning(int)
+comment7.params=ideal
+comment7.target=void\ whenYouWalkingXD(boolean)
+comment8.params=select
+comment8.target=void\ funnySound(int)
+comment9.params=
+comment9.target=void\ Fibrilations()
+numComments=11

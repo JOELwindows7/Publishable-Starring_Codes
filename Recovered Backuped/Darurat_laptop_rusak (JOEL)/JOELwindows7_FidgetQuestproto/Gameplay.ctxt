@@ -1,0 +1,28 @@
+#BlueJ class context
+comment0.target=Gameplay
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Gameplay\ here.\r\n\ \r\n\ @author\ JOELwindows7\ \r\n\ @version\ 2018\r\n
+comment1.params=
+comment1.target=Gameplay()
+comment10.params=
+comment10.target=void\ started()
+comment11.params=
+comment11.target=void\ act()
+comment11.text=\r\n\ \ \ \ public\ void\ startOver()\ //danpost's\ portions\r\n\ \ \ \ {\r\n\ \ \ \ \ \ \ \ //\ initialize\ static\ fields\ in\ this\ class\r\n\ \ \ \ \ \ \ \ //scoreText\ \=\ getNewStillActor();\r\n\ \ \ \ \ \ \ \ levelText\ \=\ new\ barName();\r\n\ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ skore\ \=\ 0;\ //\ initialize\ score\r\n\ \ \ \ \ \ \ \ levelKount\ \=\ -2;\ //\ initialize\ level\r\n\ \ \ \ \ \ \ \ levelName\ \ \=\ "<Untitled>";\r\n\ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ //\ start\ first\ world\ (beyond\ title\ screen)\r\n\ \ \ \ \ \ \ \ Greenfoot.setWorld(new\ Level_0());\r\n\ \ \ \ }\r\n
+comment2.params=
+comment2.target=void\ prepare()
+comment3.params=levelNumRightNow\ levelNameRightNow\ levelCommandRightNow\ levelControlRightNow\ levelControlRightNow2
+comment3.target=void\ initScreen(int,\ java.lang.String,\ java.lang.String,\ int,\ int)
+comment4.params=levelNumRightNow\ levelNameRightNow
+comment4.target=void\ gamePlayBar(int,\ java.lang.String)
+comment5.params=statement
+comment5.target=void\ endTheLevel(boolean)
+comment6.params=statement\ CustomSay
+comment6.target=void\ endTheLevel(boolean,\ java.lang.String)
+comment7.params=
+comment7.target=void\ setField()
+comment7.text=\r\n\ \ \ \ private\ void\ setLevelText()\r\n\ \ \ \ {\r\n\ \ \ \ \ \ \ \ levelText.setImage(new\ GreenfootImage(""+levelKount+"\ \ \ "+levelName,\ 24,\ Color.BLACK,\ new\ Color(0,\ 0,\ 0,\ 0)));\r\n\ \ \ \ }\r\n
+comment8.params=
+comment8.target=void\ nextLevel()
+comment9.params=
+comment9.target=void\ restartLevel()
+numComments=12
