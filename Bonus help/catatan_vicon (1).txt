@@ -1,0 +1,25 @@
+Database -> Table info
+				4 atribut
+				id -> primary key -> int
+				nama -> varchar / char -> 100
+				alamat -> varchar / char -> 200
+				telefon -> varchar / char -> 15
+
+3 hal untuk connect ke database
+1. Connection String
+	jdbc -> tipe database yang digunakan lalu nama database yang mau digunakan
+	jdbc:mysql://localhost/viconbad
+2. Username mysql
+3. Password mysql
+
+query insertnya terlebih dahulu
+
+INSERT INTO info VALUES (null,"nama","alamat","telefon");
+
+
+
+1. 1 test test ...
+2.
+3.
+
+Delete -> ngehapus
