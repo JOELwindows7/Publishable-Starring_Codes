@@ -1,3 +1,6 @@
 [submodule "Submodule/MySubmodulo"]
 	path = Submodule/MySubmodulo
 	url = https://github.com/JOELwindows7/MySubmodulo.git
+[submodule "Submodule\\Atlassian-Submodule-Demo"]
+	path = Submodule\\Atlassian-Submodule-Demo
+	url = https://bitbucket.org/jaredw/awesomelibrary
