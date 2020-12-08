@@ -1,0 +1,64 @@
+{
+  "benchmark_client": {
+    "client_version": "1.0b2"
+  },
+  "blender_version": {
+    "build_commit_date": "2018-03-22",
+    "build_commit_time": "14:10",
+    "build_date": "2018-03-22",
+    "build_hash": "f4dc9f9d68b",
+    "build_time": "09:59 AM",
+    "version": "2.79 (sub 0)"
+  },
+  "device_info": {
+    "compute_devices": [
+      "GeForce GTX 1050 Ti (Display)"
+    ],
+    "device_type": "CUDA",
+    "num_cpu_threads": 12
+  },
+  "scenes": [
+    {
+      "name": "bmw27",
+      "stats": {
+        "device_memory_usage": 149.48,
+        "device_peak_memory": 149.48,
+        "pipeline_render_time": 318.37,
+        "render_time_no_sync": 312.702,
+        "result": "OK",
+        "total_render_time": 316.774
+      }
+    },
+    {
+      "name": "classroom",
+      "stats": {
+        "device_memory_usage": 352.3,
+        "device_peak_memory": 352.3,
+        "pipeline_render_time": 908.05,
+        "render_time_no_sync": 905.236,
+        "result": "OK",
+        "total_render_time": 906.886
+      }
+    }
+  ],
+  "system_info": {
+    "bitness": "64bit",
+    "cpu_brand": "Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz",
+    "devices": [
+      {
+        "name": "Intel Core i7-8750H CPU @ 2.20GHz",
+        "type": "CPU"
+      },
+      {
+        "name": "GeForce GTX 1050 Ti",
+        "type": "CUDA"
+      }
+    ],
+    "machine": "AMD64",
+    "num_cpu_cores": 6,
+    "num_cpu_sockets": 1,
+    "num_cpu_threads": 12,
+    "system": "Windows"
+  },
+  "timestamp": "2019-07-19T08:24:44.164056+00:00"
+}
