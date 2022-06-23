@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=GameOver
+comment1.params=
+comment1.target=GameOver()
+comment1.text=Creates\ a\ game\ over\ world\ showing\ the\ final\ score
+comment2.params=
+comment2.target=void\ act()
+comment2.text=Starts\ a\ new\ game\ when\ the\ mouse\ is\ clicked\ while\ the\ game\ over\ screen\ is\ showing
+numComments=3

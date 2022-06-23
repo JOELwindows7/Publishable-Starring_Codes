@@ -1,0 +1,27 @@
+﻿Build started 9/12/2017 12:46:42 PM.
+     1>Project "D:\AO-Algo2\AO-Algo2\AO-Algo2.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\AO-Algo2.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"C:\Program Files\OpenCV2.3\include" /I"C:\Program Files\OpenCV2.3\include\opencv2" /I"C:\Program Files\OpenCV2.3\include\opencv" /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>d:\ao-algo2\ao-algo2\main.cpp(52): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>d:\ao-algo2\ao-algo2\main.cpp(56): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>d:\ao-algo2\ao-algo2\main.cpp(60): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\AO-Algo2\Debug\AO-Algo2.exe" /NOLOGO /LIBPATH:"C:\Program Files\OpenCV2.3\build\x86\vc9\lib" /LIBPATH:"C:\Program Files\opencv\build\x86\vc9\lib" /LIBPATH:"C:\Program Files\OpenCV2.3\3rdparty\lib" fltkd.lib fann.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\AO-Algo2.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\AO-Algo2\Debug\AO-Algo2.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\AO-Algo2\Debug\AO-Algo2.lib" /MACHINE:X86 Debug\main.obj
+         LINK : D:\AO-Algo2\Debug\AO-Algo2.exe not found or not built by the last incremental link; performing full link
+         AO-Algo2.vcxproj -> D:\AO-Algo2\Debug\AO-Algo2.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\AO-Algo2\Debug\AO-Algo2.exe;#1" /manifest "Debug\AO-Algo2.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         Deleting file "Debug\AO-Algo2.unsuccessfulbuild".
+         Touching "Debug\AO-Algo2.lastbuildstate".
+     1>Done Building Project "D:\AO-Algo2\AO-Algo2\AO-Algo2.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.46
