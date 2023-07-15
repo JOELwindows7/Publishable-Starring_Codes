@@ -1,0 +1,78 @@
+VLAN:
+1. Design jaringannya dahulu
+2. Untuk masing-masing switch nya, masuk ke Config > VLAN Database. Lalu buat beberapa segmen VLAN yang ingin dibuat.
+3. Untuk masing-masing switch nya, setelah membuat segmen VLAN, cek dahulu:
+	- Setiap Device yang terhubung dengan switch nya harus dipasang VLAN yang mana.
+	- Setiap Device yang terhubung dengan switch nya terhubung ke interface switch yang mana.
+4. 2 Golden Rules:
+	- Switch ke Switch itu dipasang "Trunk".
+	- Switch ke end-device (seperti komputer, laptop) itu dipasang "Access".
+5. Untuk masing-masing switch nya, masuk ke interface yang ada terkoneksi dengan device tertentu, lalu lihat yang rule tadi. Setelah itu pasangkan sesuai rule tersebut. Jika hubungannya adalah dari Switch ke end-device, lihat dia harusnya masuk ke VLAN mana, lalu setelah pasang menjadi "Access", scroll ke kanan, lalu klik "panah ke bawah" di dekat no VLAN nya, setelah itu select VLAN yang harusnya dipasang ke device tersebut.
+Jika hubungannya adalah dari Switch ke Switch, baca soalnya dahulu, apakah ada spesifikasi dari soalnya tentang hubungan tersebut. Jika tidak ada, maka cukup pasang "Trunk" ke interface yang menghubungkan mereka. 
+Jika ada, biasanya melakukan spesifikasi dari VLAN yang akan dipakai ke switch yang sebelah. Sehingga yang anda lakukan adalah setelah pasang ke "Trunk", scroll ke kanan, setting VLAN yang akan dipakai ke switch sebelah.
+
+Referensi:
+http://ontuto.com/tutorial-konfigurasi-vlan-cisco-packet-tracer/
+
+=============================================================================
+WLAN:
+1. Masuk ke settingan Wireless Router, lalu pilih tab GUI.
+2. Baca soalnya dahulu, fokus kepada settingan DHCP (IP Router, subnet mask, start IP address, Max user). Setting DHCP sesuai yang tertera di soal di bagian tab Setup > Basic Setup yang letaknya ada di dalam tab GUI tadi.
+3. Lalu baca soalnya lagi, fokus kepada settingan SSID. Masuk ke tab Wireless > Basic Wireless Settings, lalu masukkan SSID sesuai soal.
+4. Lalu baca soalnya sekali lagi, fokus kepada settingan password (Security Mode, password). Masuk ke tab Wireless > Wireless Security, lalu setting Security Mode sesuai yang tertera di soal:
+	- Jika tulisannya adalah WPA2 Personal, maka gunakan WPA2-PSK
+	- Jika tulisannya adalah WPA2 Enterprise, maka gunakan WPA2-EAP
+Setelah itu masukkan password sesuai soal.
+5. Buat semua end-device yang punya hubungan wireless bisa terhubung ke Wireless router (Connect nya lewat tab Desktop > PC Wireless dari settingan device nya). Lalu buat settingan IP per device menjadi DHCP.
+6. Buat semua end-device yang punya hubungan kabel bisa terhubung ke Wireless router (Cek saja hubungan kabel nya). Lalu buat settingan IP per device menjadi DHCP.
+
+Referensi:
+https://musaamin.web.id/cisco-packet-tracer-membuat-jaringan-wireless/
+
+=============================================================================
+Dynamic Routing:
+1. Kasih IP ke masing-masing device dahulu, termasuk router (ingat, baca soalnya dahulu untuk mengetahui IP seperti apa yang harus disetting ke masing-masing device).
+2. Untuk masing-masing router yang ada, masuk ke settingannya. Lalu buka tab CLI.
+3. Pastikan posisi penunjuk CLI nya ada di bagian Config, jadi seharusnya seperti ini:
+	Router0 (config)#
+
+Jika posisi penunjuk sekarang ada di:
+	Router0>
+maka yang cukup kalian lakukan adalah:
+	Router0>en 										[enable router CLI]
+	Router0#conf t 									[Masuk ke terminal dari Router]
+
+Jika posisi penunjuk sekarang ada di:
+	Router0 (config-if)#
+maka yang cukup kalian lakukan adalah:
+	Router0 (config-if)# ex							[Keluar dari configurasi interface yang sedang ditunjuk sekarang]
+
+4. Lalu yang dilakukan selanjutnya adalah enter command ini untuk menggunakan OSPF Dynamic routing (yang bagian [id] diisi process ID sesuai yang diminta dalam soal, tapi tanpa pakai []):
+	Router0 (config)# router ospf [id]
+
+5. Lalu kenalkan router tersebut ke jaringan sebelah-sebelahnya, dengan command seperti ini (untuk bagian wild card, di cek dlu subnet mask nya, lalu lakukan perhitungan 255.255.255.255 yang dikurang dengan subnet mask asli nya; Untuk area ID, baca soalnya; Untuk bagian network address, yang dimaksudkan adalah Network Address yang sebagai IP pengenal network (Dalam range IP yang dispesifikasikan ada dikenal Network Address dan Broadcast Address) ):
+	Router0 (config-router)# network [network address] [wild card] area [area ID]
+
+Referensi:
+http://www.ilmujaringan.com/konfigurasi-ospf-pada-router-cisco/
+
+=============================================================================
+Mikrotik:
+1. Baca soalnya dahulu, fokus ke bagian yang menyinggung kata "ether" (biasanya di point pertama sudah menyinggung ini), tapi ignore yang dituliskan "ether1" karena by default, settingan lab sudah sediakan settingan ether1.
+2. Misalnya di soal ada bilang "ether2 untuk menghubungkan internal ke router", "ether3 untuk menghubungkan office ke router", atau semacamnya. Berarti interface mikrotik yang perlu di setting adalah "etherX" yang dispesifikasikan. Lalu cek juga untuk bagian "LAN IP" untuk mengetahui setiap interface akan dipasang IP nya berapa.
+3. 5 step template:
+	- IP > Addresses (untuk memberikan IP ke interface etherX)
+	- IP > DNS (sebagai tempat untuk mendapatkan public IP dari suatu nama domain)
+	- IP > Routing (untuk memberikan arahan kepada packet untuk keluar nya lewat mana)
+	- IP > Firewall (untuk merubah bagian source address menjadi public IP address menggunakan sistem "Masquerading" di bagian NAT (Network Address Translation)).
+	- ncpa.cpl dari control panel
+4. Start dari IP > Addresses, sesuaikan IP dengan yang tertera di soal dan pastikan sesuai dengan interface yang dibutuhkan (note: jangan setting ether1!).
+5. Masuk ke IP > DNS, masukkan IP 10.22.64.21 karena di lab, server DNS nya ada di sana, jadi kalau mau connect ke internet, harus ke sana.
+6. Lalu ke bagian IP > Routing, tambah 1 routing baru. Masukkan IP 0.0.0.0/0 (artinya targetnya mau ke manapun) dan buat interface nya, pilih "ether1". Jadi semua packet yang akan dikirimkan akan di redirect ke ether1.
+7. Settingan terakhir dari mikrotik adalah membuat src address menjadi public IP address (IP > Firewall). Masuk ke tab NAT, lalu tambah rule.
+8. Tab yang perlu diperhatikan hanya bagian General dan Action. Untuk bagian general, ubah bagian Out Interface menjadi ether1. Artinya berlaku untuk packet yang menggunakan ether1 sebagai gerbang untuk ke internet.
+Lalu ke tab Action, ubah dari accept jadi masquerade.
+9. Setelah itu, perhatikan etherX yang tadi di setting. Jika ether2 yang tadi disetting, maka setting 2 komputer bagian kanan dari hadapan anda. Jika ether3, setting 1 komputer di tengah. Jika ether4, maka 2 komputer bagian kiri.
+10. Buka Run (Windows + R), ketik "ncpa.cpl" untuk ke control panel bagian networking.
+11. matikan adapter yang "SLC.BINUS" dan yang wifi, lalu setting adapter Mikrotik LAN dengan cara klik 2 kali, lalu klik 2 kali ke Internet Protocol version 4 (IPv4).
+12. Pasang IP manual ke settingan tersebut, tapi sesuaikan IP nya agar bagian default gateway nya mengarah ke settingan IP etherX yang baru disetting, lalu subnet mask sesuai dengan yang sudah disetting juga. Lalu untuk bagian DNS, masukkan 10.22.64.21 sebagai DNS nya. Lalu klik "OK". Harusnya sudah bisa internetan.

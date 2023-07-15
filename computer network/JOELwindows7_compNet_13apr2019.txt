@@ -1,0 +1,19 @@
+from start to end range is same part is 255
+192.0.0.0 to 192.0.0.255 means 255.0.0.0 subnet
+and 
+so on 
+a.a.a.0 is 255.255.255.0 etc
+
+access is 1 vlan for switch to comp
+trunk is for switch to switch, router, or networking devices etc.
+
+vland transfer protocol
+vtp
+main switch / central switch:
+(config)# vtp mode server
+
+(config)# vtp domain mydomain
+
+child switch:
+(config)# vtp mode client
+(config)# vtp domain mydomain

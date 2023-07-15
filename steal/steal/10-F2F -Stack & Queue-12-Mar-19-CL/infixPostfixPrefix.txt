@@ -1,0 +1,48 @@
+infix, prefix, postfix 
+=====================
+1. Conversion
+Stack filled by operator
+
+postfix : left to right
+	1. If it is an operand, add it to the postfix string.
+	2. If it is an open bracket, push it into stack.
+	3. If it is a close bracket, pop the stack until you found an open bracket. Add each popped element to the postfix string (without the bracket).
+	4. If it is an operator, pop while the stack’s top element has higher or equal precedence than the scanned character. Add each popped element to the postfix string. Push the scanned character into stack.
+	5. After you have scanned all character, pop all elements in stack and add them to postfix string.
+
+
+prefix : right to left
+	1. If it is an operand, add it to the prefix string.
+	2. If it is an close bracket, push it into stack.
+	3. If it is a open bracket, pop the stack until you found an close bracket. Add each popped element to the prefix string (without the bracket).
+	4. If it is an operator, pop while the stack’s top element has higher precedence than the scanned character. Add each popped element to the prefix string. Push the scanned character into stack.
+	5. After you have scanned all character, pop all elements in stack and add them to prefix string.
+
+	6. reverse prefix string.
+
+2. Evaluation
+Stack filled by operand
+
+postfix : left to right
+ - operand : push to stack
+ - operator : pop 2x (a, b), push (b operator a)
+
+prefix : right to left
+ - operand : push to stack
+ - operator : pop 2x (a, b), push (a operator b)
+
+
+case : 
+
+infix	: 4+6*(5-2)/3
+result = 10
+
+infix	: 4+6*(5-2)/3
+postfix : 4652-*3/+
+prefix	: +4/*6-523
+
+infix	: 5*7+(8/2-3)^9
+result = 36
+
+postfix : 123*45-6+/+
+prefix	: +1/*23+-456

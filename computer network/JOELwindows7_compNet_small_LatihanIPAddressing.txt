@@ -1,0 +1,56 @@
+Joel RObert Justiawan 2101629672
+LA04
+Computer Network
+
+IP Addressing
+IP __________________________
+Mask __________________________ AND
+NA
+invert Mask ______________________ +
+BA
+
+1. Network Default
+	a. Subnet Mask default = 255.255.255.0 (Not subnetted)
+	b. NA = IP && Subnet
+		A - H = 192.168.100.1
+		J = 192.168.10.1
+	c. BA = NA + Subnet invert
+		A - H = 192.168.100.255
+		J = 192.168.10.255
+	d. 254 Devices.
+		7 di kelompok (1)(.100.[0-255])
+		1 di kelompok (2)(.10.[0-255])
+2. 32 Subnetwork
+	32 = 2^5
+	Subnet Count = 2^n
+	n = 5
+	11111000
+	a. Subnet Mask today = 255.255.255.11111000
+		255.255.255.248
+	b. 256 / Subnetwork = Availables; Availables - 2 = Devices per subnetwork; 32 * Devices per subnetwork = Total Devices
+		256 / 32 = 8 Available IPs
+		8 - 2 = 6 Devices per subnetwork
+		32 * 6 = 192 Total Devices
+	c. NA, BA, Gateway
+		NA list
+			A. 192.168.100.8
+			B. 192.168.100.16
+			C. 192.168.100.40
+			D. 192.168.100.56
+			E. 192.168.100.64
+			F. 192.168.100.80
+			G. 192.168.100.224
+			H. 192.168.100.248
+			J. 192.168.10.248
+		BA List
+			A. 192.168.100.15
+			B. 192.168.100.23
+			C. 192.168.100.47
+			D. 192.168.100.63
+			E. 192.168.100.71
+			F. 192.168.100.87
+			G. 192.168.100.231
+			H. 192.168.100.255
+			J. 192.168.10.255
+			
+See Excel

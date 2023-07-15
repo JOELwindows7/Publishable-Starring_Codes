@@ -1,0 +1,56 @@
+usable IP = NA + x.x.x.1
+
+access list
+
+after deny from PC A to PC B, you must also add permit to any any
+.
+
+worker 112
+supervisor spv 61
+manager 24
+
+start 192.168.1.0
+
+begine
+worker
+============
+112 hosts
+(2 ^ n) - 2 = 112
+n = 7 => jumlah nol
+/25
+subnet = 255.255.255.10000000 => 128
+255.255.255.128
+IP range:
+192.168.1.0 - 192.168.1.127
+available / usable ip:
+192.168.1.1 - 192.168.1.126
+
+spv
+=========================
+61 host
+(2 ^ n) - 2 >= 61
+n = 6
+/26
+subnet mask: 255.255.255.192
+ip range:
+192.168.1.128 - 192.168.1.191
+available:
+192.168.1.129 - 192.168.1.190
+
+manager
+============================
+24 host
+(2 ^ n) -2 >= 24
+n = 5
+/27
+subnet mask: 255.255.255.224
+ip range:
+192.168.1.192 - 192.168.1.223
+available:
+192.168.1.193 - 192.168.1.222
+
+quiz
+- crimp
+- flsm/vlsm
+- static routing next jump, network address, serial jump router to router
+- access control list int fa1/0 deny host any any

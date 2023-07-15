@@ -1,0 +1,16 @@
+EIGRP bandwidth delay
+OSPF Link state
+RIP Distance Vector, how many hop router to router, path
+
+en enable root
+
+ospf.
+network na wildcard area 1
+negate subnet mask. this is your wildcard
+e.g.
+255 becomes 0
+11111111 becomes 00000000
+so 255.255.255.0
+becomes 0.0.0.255 . that's your wildcard bits
+
+for ospf router to router over serial. if you have activated ospf on all router, you will see status on cli
