@@ -1,0 +1,1 @@
+it contains the list of members, group name, and consideration notes.

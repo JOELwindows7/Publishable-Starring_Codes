@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "JOELwindows7_Uptensik_will_quiz_again", "JOELwindows7_Uptensik_will_quiz_again\JOELwindows7_Uptensik_will_quiz_again.vcxproj", "{2D517FD7-BE42-4CBC-BFFC-A28F5D297762}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D517FD7-BE42-4CBC-BFFC-A28F5D297762}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2D517FD7-BE42-4CBC-BFFC-A28F5D297762}.Debug|Win32.Build.0 = Debug|Win32
+		{2D517FD7-BE42-4CBC-BFFC-A28F5D297762}.Debug|x64.ActiveCfg = Debug|x64
+		{2D517FD7-BE42-4CBC-BFFC-A28F5D297762}.Debug|x64.Build.0 = Debug|x64
+		{2D517FD7-BE42-4CBC-BFFC-A28F5D297762}.Release|Win32.ActiveCfg = Release|Win32
+		{2D517FD7-BE42-4CBC-BFFC-A28F5D297762}.Release|Win32.Build.0 = Release|Win32
+		{2D517FD7-BE42-4CBC-BFFC-A28F5D297762}.Release|x64.ActiveCfg = Release|x64
+		{2D517FD7-BE42-4CBC-BFFC-A28F5D297762}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {855B1B72-54E0-438E-9504-63763C90ED61}
+	EndGlobalSection
+EndGlobal

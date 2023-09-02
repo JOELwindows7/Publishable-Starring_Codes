@@ -1,0 +1,8 @@
+Cara VTP:
+main switch / center dari switch nya:
+(config)# vtp mode server
+(config)# vtp domain mydomain
+
+switch anak:
+(config)# vtp mode client
+(config)# vtp domain mydomain

@@ -1,0 +1,11 @@
+RBT(Red Black Tree)
+====================
+1. setiap node punya warna, baik itu merah/hitam
+2. root selalu hitam
+3. External node selalu hitam
+4. jika node berwarna merah, maka kedua anaknya harus berwarna hitam.
+
+Insert
+------
+- Setiap node baru berwarna merah
+- terjadi pelanggaran apabila node merah mempunyai parent warna merah

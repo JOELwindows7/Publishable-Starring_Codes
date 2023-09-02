@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "JOELwindows7_Tryna_Interpolate_Search", "JOELwindows7_Tryna_Interpolate_Search\JOELwindows7_Tryna_Interpolate_Search.vcxproj", "{F57ED505-3245-4FB0-A640-21514DF08ADE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F57ED505-3245-4FB0-A640-21514DF08ADE}.Debug|x64.ActiveCfg = Debug|x64
+		{F57ED505-3245-4FB0-A640-21514DF08ADE}.Debug|x64.Build.0 = Debug|x64
+		{F57ED505-3245-4FB0-A640-21514DF08ADE}.Debug|x86.ActiveCfg = Debug|Win32
+		{F57ED505-3245-4FB0-A640-21514DF08ADE}.Debug|x86.Build.0 = Debug|Win32
+		{F57ED505-3245-4FB0-A640-21514DF08ADE}.Release|x64.ActiveCfg = Release|x64
+		{F57ED505-3245-4FB0-A640-21514DF08ADE}.Release|x64.Build.0 = Release|x64
+		{F57ED505-3245-4FB0-A640-21514DF08ADE}.Release|x86.ActiveCfg = Release|Win32
+		{F57ED505-3245-4FB0-A640-21514DF08ADE}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4D0FC93-5BD9-411C-8D63-6ED1241EAE09}
+	EndGlobalSection
+EndGlobal

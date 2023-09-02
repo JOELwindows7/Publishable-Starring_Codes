@@ -1,0 +1,22 @@
+﻿Build started 10/10/2017 12:51:43 PM.
+     1>Project "D:\pertemuan3\pertemuan3\pertemuan3.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\pertemuan3.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"C:\Program Files\OpenCV2.3\include" /I"C:\Program Files\OpenCV2.3\include\opencv2" /I"C:\Program Files\OpenCV2.3\include\opencv" /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>d:\pertemuan3\pertemuan3\main.cpp(12): warning C4101: 'ipk' : unreferenced local variable
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\pertemuan3\Debug\pertemuan3.exe" /NOLOGO /LIBPATH:"C:\Program Files\OpenCV2.3\build\x86\vc9\lib" /LIBPATH:"C:\Program Files\opencv\build\x86\vc9\lib" /LIBPATH:"C:\Program Files\OpenCV2.3\3rdparty\lib" fann.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\pertemuan3.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\pertemuan3\Debug\pertemuan3.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\pertemuan3\Debug\pertemuan3.lib" /MACHINE:X86 Debug\main.obj
+         LINK : D:\pertemuan3\Debug\pertemuan3.exe not found or not built by the last incremental link; performing full link
+         pertemuan3.vcxproj -> D:\pertemuan3\Debug\pertemuan3.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\pertemuan3\Debug\pertemuan3.exe;#1" /manifest Debug\pertemuan3.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\pertemuan3.unsuccessfulbuild".
+         Touching "Debug\pertemuan3.lastbuildstate".
+     1>Done Building Project "D:\pertemuan3\pertemuan3\pertemuan3.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.87

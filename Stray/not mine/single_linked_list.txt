@@ -1,0 +1,144 @@
+#include<stdio.h>
+#include<stdlib.h>
+
+struct Data{
+	int angka;
+	Data *next;
+}*head = NULL,*tail=NULL;
+
+void pushHead(int angka){
+	Data *node = (Data *) malloc(sizeof(Data));
+	//(*node).angka = angka;
+	node->angka = angka;
+	if(head==NULL){
+		head = tail = node;
+	}
+	else{
+		node->next = head;
+		head = node;
+	}
+	tail->next = NULL;
+}
+
+void pushTail(int angka){
+	Data *node = (Data *) malloc(sizeof(Data));
+	//(*node).angka = angka;
+	node->angka = angka;
+	if(head==NULL){
+		head = tail = node;
+	}
+	else{
+		tail->next = node;
+		tail = node;
+	}
+	tail->next = NULL;
+}
+
+
+void push(int a){
+	if(head==NULL){
+		pushHead(a);
+	}
+	else{
+		if(a < head->angka){
+			pushHead(a);
+			//kalau angka yang dimasukin lebih kecil dari head
+		}
+		else if(a > tail->angka){
+			pushTail(a);
+			//kalau angka yang dimasukin lebih besar dari tail
+		}
+		else{
+			//kalau angka yang diinput head<angka<tail
+			Data *temp = head;
+			while(temp->next->angka < a){
+				temp = temp->next;
+			}
+			Data *node = (Data*)malloc(sizeof(Data));
+			node->angka = a;
+			node->next = temp->next;
+			temp->next = node;
+		}
+	}
+
+}
+
+
+void pop(int a){
+	//cek apakah ada data di List
+	if(head){//kalau ada data di list
+		if(head->angka == a){
+			//kalau angka yang didelete ada di head
+			if(head==tail){//kalau datanya tinggal 1 di list
+				free(head);
+				head = tail = NULL;
+			}
+			else{//kalau datanya lebih dari 1 di list
+				Data *temp = head;
+				head = head->next;
+				free(temp);
+			}
+		}
+		else if(tail->angka == a){
+			//kalau angka yang mau di delete ada di tail
+			Data *temp = head;
+			while(temp->next != tail){
+				temp = temp->next;
+			}
+			free(tail);
+			tail = temp;
+			tail->next = NULL;
+		}
+		else{
+			//kalau angka yang mau di delete ada ditengah
+			Data *temp = head;
+			while(temp!=NULL && temp->angka!=a){
+				temp = temp->next;
+			}
+			if(temp!=NULL){//kalau angka yang dicari ketemu
+				Data *temp2 = head;
+				while(temp2->next!=temp){
+					temp2= temp2->next;
+				}
+				temp2->next = temp->next;
+				free(temp);
+			}
+		}
+	}
+	else{//kalau tidak ada data di list
+		printf("Data Kosong");
+	}
+
+}
+
+
+
+void viewList(){
+	Data *temp;
+	temp = head;
+	while(temp!=NULL){
+		printf("%d->",temp->angka);
+		temp = temp->next;
+	}
+	printf("NULL");
+}
+
+
+int main(){
+	//linked list
+	//single 
+	//double
+	/*pushHead(6);
+	pushHead(8);
+	pushTail(7);*/
+	push(5);
+	push(12);
+	push(30);
+	push(6);
+	push(14);
+	pop(5);
+	pop(14);
+	pop(30);
+	viewList();
+	getchar();
+}

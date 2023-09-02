@@ -1,0 +1,32 @@
+ether 1 jgn di utak atik karena akses utama/otak/gerbang menuju internet/koneksi
+setting IP Address
+Interface ada 6 tapi yang di atur ether 2,3, dan 4
+contoh : ether 2 IP Address : 192.168.10.1/24
+	 ether 3 IP Address : 192.168.10.2/24
+	 ether 4 IP Address : 192.168.10.3/24			jika sudah tekan ok
+setting DNS 
+klik IP > DNS
+contoh : IP Address 10.22.64.21					jika sudah tekan ok
+setting Routing
+klik IP > Routes
+klik (+) 
+Dst. Address 0.0.0.0/0
+Gateway : ether 1						jika sudah tekan ok
+setting NAT
+NAT = mengubah IP yg private menjadi IP public
+klik IP > Firewall > NAT > (+)
+Chain : srcnat
+Out. Interface : ether1
+klik Action > masquerade					jika sudah tekan ok
+
+
+Ether2 = Kanan = 192.168.10
+Ether4 = Kiri = 192.168.30
+Ether3 = Tengah = 19.2.168.20
+
+
+
+Windows + R : ncpa.cpl
+disable Ethernet dan WiFi
+klik MikrotikLan > Properties > use the following IP Address
+DNS 10.22.64.21

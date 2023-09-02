@@ -1,0 +1,132 @@
+#include<stdio.h>
+#include<stdlib.h>
+
+struct data{
+	int angka;
+	data *left;
+	data *right;
+}*root = NULL;
+
+void insertNode(data **temp,int angka){
+
+	if(*temp==NULL){
+		*temp = (data*)malloc(sizeof(data));
+		(*temp)->angka = angka;
+		(*temp)->left = NULL;
+		(*temp)->right = NULL;
+	}
+	else if(angka > (*temp)->angka) insertNode(&(*temp)->right,angka);
+	else if(angka < (*temp)->angka) insertNode(&(*temp)->left,angka);
+}
+
+
+void preorder(data **temp){
+	if(*temp!=NULL){
+		printf("%d ",(*temp)->angka);
+		preorder(&(*temp)->left);
+		preorder(&(*temp)->right);
+	}
+}
+
+void inorder(data **temp){
+	if(*temp!=NULL){
+		inorder(&(*temp)->left);
+		printf("%d ",(*temp)->angka);
+		inorder(&(*temp)->right);
+	}
+}
+
+void postorder(data **temp){
+	if(*temp!=NULL){
+		postorder(&(*temp)->left);
+		postorder(&(*temp)->right);
+		printf("%d ",(*temp)->angka);
+	}
+}
+
+
+data **getAnakKiriPalingKanan(data**temp){
+	if((*temp)->right!=NULL){
+		getAnakKiriPalingKanan(&(*temp)->right);
+	}
+	else{
+		return temp;
+	}
+}
+
+
+void popPengganti(data **temp){
+	if((*temp)->left==NULL && (*temp)->right==NULL){
+		free(*temp);
+		*temp=NULL;
+	}
+	else if((*temp)->left!=NULL && (*temp)->right==NULL){
+		data *temp2 = *temp;
+		*temp = (*temp)->left;
+		free(temp2);
+	}
+	else if((*temp)->right!=NULL && (*temp)->left==NULL){
+		data *temp2 = *temp;
+		*temp = (*temp)->right;
+		free(temp2);
+	}
+	else if((*temp)->right!=NULL && (*temp)->left!=NULL){
+		data **curr = getAnakKiriPalingKanan(&(*temp)->left);
+		(*temp)->angka = (*curr)->angka;
+		popPengganti(curr);
+	}
+}
+
+
+void pop(data **curr,int angka){
+	if((*curr)->angka == angka){
+		popPengganti(curr);
+	}
+	else{
+		if(angka>(*curr)->angka)pop(&(*curr)->right,angka);
+		else if(angka<(*curr)->angka)pop(&(*curr)->left,angka);
+	}
+}
+
+
+
+int main(){
+	/*insertNode(&root,13);
+	insertNode(&root,15);
+	insertNode(&root,10);*/
+
+	/*insertNode(&root,30);
+	insertNode(&root,15);
+	insertNode(&root,7);
+	insertNode(&root,26);
+	insertNode(&root,19);
+	insertNode(&root,17);
+	insertNode(&root,21);
+	insertNode(&root,37);
+	insertNode(&root,34);
+	insertNode(&root,31);
+	insertNode(&root,45);
+	insertNode(&root,42);*/
+
+	insertNode(&root,15);
+	insertNode(&root,7);
+	insertNode(&root,9);
+	insertNode(&root,8);
+
+
+
+	pop(&root,9);
+	insertNode(&root,9);
+	//pop(&root,30);
+	printf("Preorder : ");
+	preorder(&root);
+	printf("\n");
+	printf("Inorder : ");
+	inorder(&root);
+	printf("\n");
+	printf("Postorder : ");
+	postorder(&root);
+	printf("\n");
+	getchar();
+	return 0;
+}

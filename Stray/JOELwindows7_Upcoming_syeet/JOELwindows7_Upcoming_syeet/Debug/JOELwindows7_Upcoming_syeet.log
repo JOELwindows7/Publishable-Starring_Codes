@@ -1,0 +1,32 @@
+﻿Build started 12/12/2017 1:56:34 PM.
+     1>Project "D:\JOELwindows7_Upcoming_syeet\JOELwindows7_Upcoming_syeet\JOELwindows7_Upcoming_syeet.vcxproj" on node 2 (build target(s)).
+     1>PrepareForBuild:
+         Creating directory "D:\JOELwindows7_Upcoming_syeet\Debug\".
+       InitializeBuildStatus:
+         Creating "Debug\JOELwindows7_Upcoming_syeet.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"C:\Program Files\OpenCV2.3\include" /I"C:\Program Files\OpenCV2.3\include\opencv2" /I"C:\Program Files\OpenCV2.3\include\opencv" /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>d:\joelwindows7_upcoming_syeet\joelwindows7_upcoming_syeet\source.cpp(25): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>d:\joelwindows7_upcoming_syeet\joelwindows7_upcoming_syeet\source.cpp(30): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>d:\joelwindows7_upcoming_syeet\joelwindows7_upcoming_syeet\source.cpp(35): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>d:\joelwindows7_upcoming_syeet\joelwindows7_upcoming_syeet\source.cpp(40): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>d:\joelwindows7_upcoming_syeet\joelwindows7_upcoming_syeet\source.cpp(43): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\JOELwindows7_Upcoming_syeet\Debug\JOELwindows7_Upcoming_syeet.exe" /NOLOGO /LIBPATH:"C:\Program Files\OpenCV2.3\build\x86\vc9\lib" /LIBPATH:"C:\Program Files\opencv\build\x86\vc9\lib" /LIBPATH:"C:\Program Files\OpenCV2.3\3rdparty\lib" fann.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\JOELwindows7_Upcoming_syeet.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\JOELwindows7_Upcoming_syeet\Debug\JOELwindows7_Upcoming_syeet.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\JOELwindows7_Upcoming_syeet\Debug\JOELwindows7_Upcoming_syeet.lib" /MACHINE:X86 Debug\Source.obj
+         JOELwindows7_Upcoming_syeet.vcxproj -> D:\JOELwindows7_Upcoming_syeet\Debug\JOELwindows7_Upcoming_syeet.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\JOELwindows7_Upcoming_syeet\Debug\JOELwindows7_Upcoming_syeet.exe;#1" /manifest Debug\JOELwindows7_Upcoming_syeet.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\JOELwindows7_Upcoming_syeet.unsuccessfulbuild".
+         Touching "Debug\JOELwindows7_Upcoming_syeet.lastbuildstate".
+     1>Done Building Project "D:\JOELwindows7_Upcoming_syeet\JOELwindows7_Upcoming_syeet\JOELwindows7_Upcoming_syeet.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.76

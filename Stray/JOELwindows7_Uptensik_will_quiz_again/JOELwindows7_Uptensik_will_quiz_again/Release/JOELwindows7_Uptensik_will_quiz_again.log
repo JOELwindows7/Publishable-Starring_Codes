@@ -1,0 +1,8 @@
+﻿  Source.cpp
+Source.cpp(140): warning C4129: 'p': unrecognized character escape sequence
+  Generating code
+  4 of 10 functions (40.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  JOELwindows7_Uptensik_will_quiz_again.vcxproj -> C:\Users\acer\Documents\starring codes\JOELwindows7_Uptensik_will_quiz_again\Release\JOELwindows7_Uptensik_will_quiz_again.exe

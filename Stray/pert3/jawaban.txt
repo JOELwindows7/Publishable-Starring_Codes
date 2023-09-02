@@ -1,0 +1,148 @@
+#include<stdio.h>
+#include<stdlib.h>
+#include<string.h>
+struct data {
+	char part[100];
+	int qty;
+	data *next;
+}*head=NULL,*tail=NULL;
+
+int total = 0;
+
+void push(char *name,int qty){
+
+	data *nd = (data*)malloc(sizeof(data));
+	nd->qty = qty;
+	strcpy(nd->part,name);
+
+	if(head==NULL){
+		head = tail = nd;
+	}
+	else{
+		nd->next = head;
+		head = nd;
+	}
+	tail->next = NULL;
+}
+
+void spasi(){
+	for(int i=0;i<24;i++)puts("\n");
+}
+
+void menu(){
+	printf(" BLUE MOTORCYCLE PARTS\n");
+	printf(" .....................\n\n");
+	printf(" 1. View Order List\n");
+	printf(" 2. Add New Order\n");
+	printf(" 3. Take Order\n");
+	printf(" 4. Exit\n");
+	printf(" >> Input choice : ");
+}
+
+void case2(){
+	char name[100];
+	int qty;
+	printf(" Input Name of Motorcycle's Part [3..30]:");
+	gets(name);fflush(stdin);
+	printf(" Input Quantity of The Motorcycle's Part [1..20]:");
+	scanf("%d",&qty);fflush(stdin);
+	push(name,qty);
+	total++;
+	printf("\n\n --- Add New Order Success ---");
+	getchar();
+}
+
+void viewOrder(){
+	data *temp = head;
+	int i=1;
+	printf("                  --- ORDER LIST ---\n\n");
+	printf(" -------+--------------------------------+-----------\n");
+	printf(" | No.  | Name of Parts                  | Quantity |\n");
+	printf(" -------+--------------------------------+-----------\n");
+	while(temp!=NULL){
+		printf(" |%d.| %s | %d |\n",i,temp->part,temp->qty);
+		i++;
+		temp=temp->next;
+	}
+	printf(" -------+--------------------------------+-----------\n");		
+
+}
+
+
+void case3(){
+	int cekOut=0;
+	if(head){
+		viewOrder();
+		printf(" Input Number of The Order [1..%d]: ",total);
+		scanf("%d",&cekOut);fflush(stdin);
+		if(cekOut==1){
+			if(head==tail){
+				free(head);
+				head=tail=NULL;
+			}
+			else{
+				data *temp = head;
+				head = temp->next;
+				free(temp);
+			}
+		}
+		else if(cekOut==total){
+			data *temp = head;
+			while(temp->next!=tail){
+				temp = temp->next;
+			}
+			free(tail);
+			tail=temp;
+			tail->next = NULL;
+		}
+		else{
+			data *temp = head;
+			data *temp2 = head;
+			for(int i=1;i<cekOut;i++){
+				temp=temp->next;
+			}
+			while(temp2->next!=temp){
+				temp2=temp2->next;
+			}
+			temp2->next = temp->next;
+			free(temp);
+
+		}
+		printf("\n\n --- Take Order Success ---");
+		getchar();
+	}
+	else{
+		printf("\n --- There is No Order in The List ---");
+		getchar();
+	}
+
+
+}
+
+
+int main(){
+	int pil=0;
+
+	do{
+		spasi();
+		menu();
+		scanf("%d",&pil);fflush(stdin);
+		switch(pil){
+			case 1:
+					spasi();
+					viewOrder();
+					getchar();
+					break;
+			case 2: 
+					spasi();
+					case2();
+					break;
+			case 3: 
+					spasi();
+					case3();
+					break;
+		}
+	}while(pil!=4);
+
+	return 0;
+}

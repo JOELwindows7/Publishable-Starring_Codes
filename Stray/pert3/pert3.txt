@@ -1,0 +1,44 @@
+#include<stdio.h>
+#include<stdlib.h>
+
+struct data{
+	int angka;
+	data *next;
+	data *prev;
+}*head=NULL,*tail=NULL,*temp=NULL;
+
+void pushHead(int angka){
+	data *nd = (data *)malloc(sizeof(data));
+	nd->angka = angka;
+	if(head==NULL){
+		head = tail = nd;
+	}
+	else{
+		head->prev = nd;
+		nd->next = head;
+		head = nd;
+	}
+	tail->next = NULL;
+	head->prev = NULL;
+}
+
+
+
+void view(){
+	temp = head;
+	while(temp!=NULL){
+		printf("%d->",temp->angka);
+		temp = temp->next;
+	}
+	printf("NULL");
+}
+
+
+int main(){
+	pushHead(5);
+	pushHead(4);
+	pushHead(10);
+	view();
+	getchar();
+	return 0;
+}
